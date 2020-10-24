@@ -2,7 +2,7 @@ import pandas as pd
 
 fm = pd.read_csv('Práce\Firms.csv')
 
-fm = fm[['X', 'Y', 'název', 'počet_zaměstnanců', 'odvětví', 'address', 'latitude', 'longitude']]
+fm = fm[['X', 'Y', 'název', 'počet_zaměstnanců', 'odvětví', 'address']]
 
 print(fm)
 
