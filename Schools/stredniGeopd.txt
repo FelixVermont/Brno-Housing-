@@ -1,0 +1,59 @@
+,název,Unnamed: 1,lat,lon
+0,"Střední škola technická a ekonomická Brno, Olomoucká, příspěvková organizace","Olomoucká 1140/61, Černovice, 627 00 Brno",49.1869627,16.652676
+1,"Střední průmyslová škola Brno, Purkyňova, příspěvková organizace","Purkyňova 2832/97, Královo Pole, 612 00 Brno",49.2252928,16.5808793
+2,"Střední průmyslová škola a Vyšší odborná škola Brno, Sokolská, příspěvková organizace","Sokolská 366/1, Veveří, 602 00 Brno",49.2033383,16.5985305
+3,"Střední škola strojírenská a elektrotechnická Brno, příspěvková organizace","Trnkova 2482/113, Líšeň, 628 00 Brno",49.1998425,16.6687894
+4,"Gymnázium J. G. Mendela a jeho zařízení a Základní umělecká škola, š. p. o.","Mendlovo náměstí 1/4, Staré Brno, 603 00 Brno",49.1911211,16.5958731
+5,"I. Německé zemské gymnasium, základní škola a mateřská škola, o. p. s.","Mendlovo náměstí 1/3, Staré Brno, 603 00 Brno",49.1911211,16.5958731
+6,"Střední škola stavebních řemesel Brno-Bosonohy, příspěvková organizace","Pražská 636/38b, Bosonohy, 642 00 Brno",49.1760242,16.5327208
+7,"AKADEMIA Gymnázium, Základní škola a Mateřská škola, s. r. o.","Rašelinová 2433/11, Líšeň, 628 00 Brno",49.20597,16.6854877
+8,Hotelová škola s. r. o.,"Bosonožská 381/9, Starý Lískovec, 625 00 Brno",49.1657845,16.5550638
+9,Střední odborná škola MORAVA o. p. s.,"Řehořova 1165/5, Černovice, 618 00 Br",49.1838422,16.6334206
+10,"Integrovaná střední škola automobilní Brno, příspěvková organizace","Křižíkova 106/15, Královo Pole, 612 00 Brno",49.2241162,16.6122968
+11,"Gymnázium Brno-Řečkovice, příspěvková organizace","Terezy Novákové 936/2, Řečkovice, 621 00 Brno",49.2469809,16.5782337
+12,"Bezpečnostně právní akademie Brno, s. r. o., střední škola","Zoubkova 149/20, Nový Lískovec, 634 00 Brno",49.1830808,16.5614717
+13,Církevní střední zdravotnická škola s. r. o.,"Grohova 112/16, Veveří, 602 00 Brno",49.2010685,16.5973542
+14,"Obchodní akademie, Střední odborná škola knihovnická a Vyšší odborná škola Brno, příspěvková organizace","Kotlářská 263/9, Veveří, 602 00 Brno",49.2054951,16.5966266
+15,"Střední průmyslová škola stavební Brno, příspěvková organizace","Kudelova 1855/8, Černá Pole, 602 00 Brno",49.2016421,16.6126468
+16,"Střední škola polytechnická Brno, Jílová, příspěvková organizace","Jílová 164/36g, Štýřice, 639 00 Brno",49.1766800,16.5930708
+17,"Odborné učiliště a praktická škola Brno, příspěvková organizace","Lomená 530/44, Komárov, 617 00 Brno",49.1729779,16.6271256
+18,"Gymnázium Globe, s. r. o.","Bzenecká 4226/23, Židenice, 628 00 Brno",49.2074874,16.6568509
+19,"Mateřská škola, základní škola a střední škola Gellnerka Brno, příspěvková organizace","Gellnerova 66/1, Jundrov, 637 00 Brno",49.2069419,16.5545133
+20,"Obchodní akademie ELDO, o. p. s.","Střední 552/59, Ponava, 602 00 Brno",49.2124626,16.6048443
+21,"Střední odborná škola EDUCAnet Brno, o. p. s.","Arménská 573/21, Bohunice, 625 00 Brno",49.1678109,16.5806125
+22,"Střední průmyslová škola chemická Brno, Vranovská, příspěvková organizace","Vranovská 1364/65, Husovice, 614 00 Brno",49.2093581,16.6280147
+23,"Střední škola Brno, Charbulova, příspěvková organizace","Charbulova 1072/106, Černovice, 618 00 Brno",49.1825722,16.6365533
+24,"Střední škola Gemini Brno, příspěvková organizace","Vaculíkova 259/14, Lesná, 638 00 Brno",49.2283189,16.6214236
+25,"Střední škola informatiky, poštovnictví a finančnictví Brno, příspěvková organizace","Čichnova 982/23, Komín, 624 00 Brno",49.2143997,16.5614543
+26,"Střední škola KNIH, o. p. s.","Bzenecká 4226/23, Židenice, 628 00 Brno",49.2074874,16.6568509
+27,"Střední odborné učiliště tradičních řemesel a Vyšší odborná škola, spol. s r. o.","Střední 552/59, Ponava, 602 00 Brno",49.2124626,16.6048443
+28,"Střední škola F. D. Roosevelta Brno, příspěvková organizace","Křižíkova 1694/11, Královo Pole, 612 00 Brno",49.225144,16.6099004
+29,"Střední zdravotnická škola Brno, Jaselská, příspěvková organizace","Jaselská 190/7, Veveří, 602 00 Brno",49.1982151,16.6012001
+30,Biskupské gymnázium Brno a mateřská škola,"Barvičova 666/85, Stránice, 602 00 Brno",49.2022844,16.5737394
+31,Cyrilometodějské gymnázium a střední odborná škola pedagogická Brno,"Lerchova 343/63, Stránice, 602 00 Brno",49.2013268,16.581007
+32,EKO GYMNÁZIUM BRNO o. p. s.,"Labská 269/27, Starý Lískovec, 625 00 Brno",49.1710219,16.5595604
+33,"Gymnázium Brno, Elgartova, příspěvková organizace","Elgartova 689/3, Husovice, 614 00 Brno",49.2120761,16.6326675
+34,"Gymnázium Brno, Křenová, příspěvková organizace","Křenová 304/36, Trnitá, 602 00 Brno",49.1914224,16.6201594
+35,"Gymnázium Brno, Slovanské náměstí, příspěvková organizace","Slovanské náměstí 1804/7, Královo Pole, 612 00 Brno",49.2226654,16.5914275
+36,"Gymnázium Brno, třída Kapitána Jaroše, příspěvková organizace","třída Kpt. Jaroše 1829/14, Černá Pole, 602 00 Brno",49.202061,16.6111559
+37,"Gymnázium Brno, Vídeňská, příspěvková organizace","Vídeňská 55/47, Štýřice, 639 00 Brno",49.1808214,16.5951617
+38,"Gymnázium Brno-Bystrc, příspěvková organizace","Vejrostova 1143/2, Bystrc, 635 00 Brno",49.2192429,16.5142429
+39,"Gymnázium Matyáše Lercha, Brno, Žižkova 55, příspěvková organizace","Žižkova 980/55, Veveří, 616 00 Brno",49.2073996,16.5882971
+40,Gymnázium Mojmírovo náměstí s. r. o.,"Mojmírovo náměstí 67/10, Královo Pole, 612 00 Brno",49.2244873,16.5976778
+41,"Gymnázium P. Křížkovského s uměleckou profilací, s. r. o.","Kristenova 58/27, Komín, 624 00 Brno",49.2220405,16.5552048
+42,Moravské gymnázium Brno s. r. o.,"Veveří 472/30, Veveří, 602 00 Brno",49.2005083,16.6008999
+43,"Sportovní gymnázium Ludvíka Daňka, Brno, Botanická 70, příspěvková organizace","Botanická 63/70, Ponava, 602 00 Brno",49.2107773,16.5984811
+44,"Konzervatoř Brno, příspěvková organizace","třída Kpt. Jaroše 1890/45, Černá Pole, 602 00 Brno",49.2044716,16.6102126
+45,"Střední odborná škola managementu a práva, s. r. o.","Cejl 60/61, Zábrdovice, 602 00 Brno",49.1988394,16.6212889
+46,"Střední škola grafická Brno, příspěvková organizace","Šmahova 364/110, Slatina, 627 00 Brno",49.1714084,16.6838713
+47,"Střední škola uměleckomanažerská, s. r. o.","Táborská 1297/185, Židenice, 615 00 Brno",49.1925431,16.6361758
+48,"Mateřská škola speciální, základní škola speciální a praktická škola Elpis Brno, příspěvková organizace","Koperníkova 803/2, Židenice, 615 00 Brno",49.202308,16.638722
+49,"Mateřská škola speciální, základní škola speciální a praktická škola Ibsenka Brno, příspěvková organizace","Ibsenova 114/1, Lesná, 638 00 Brno",49.2306128,16.6193478
+50,"Taneční konzervatoř Brno, příspěvková organizace","Nejedlého 375/3, Lesná, 638 00 Brno",49.2276036,16.6272922
+51,"Střední škola umění a designu a Vyšší odborná škola Brno, příspěvková organizace","Husova 537/10, Brno-město, 602 00 Brno",49.1935434,16.605026
+52,"Střední škola, základní škola a mateřská škola pro zdravotně znevýhodněné, Brno, Kamenomlýnská 2","Kamenomlýnská 124/2, Pisárky, 603 00 Brno",49.1955294,16.5711583
+53,"Střední zdravotnická škola a Vyšší odborná škola zdravotnická Brno, Merhautova, příspěvková organizace","Merhautova 590/15, Černá Pole, 613 00 Brno",49.2044719,16.6231833
+54,Střední zdravotnická škola Evangelické akademie,"Šimáčkova 235/1, Líšeň, 628 00 Brno",49.2073356,16.6946457
+55,"TRIVIS – Střední škola veřejnoprávní Brno, s. r. o.","Dukelská třída 467/65, Husovice, 614 00 Brno",49.2109131,16.6339114
+56,"TRIVIS – Střední škola veterinární Emila Holuba Brno, s. r. o.","Dukelská třída 467/65, Husovice, 614 00 Brno",49.2109131,16.6339114
+57,"Základní škola a praktická škola Brno, Vídeňská, příspěvková organizace","Vídeňská 244/26, Štýřice, 639 00 Brno",49.1828156,16.5946356

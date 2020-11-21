@@ -1,0 +1,17 @@
+Název,Adresa,lat,lon
+Avion Shopping Park,Skandinávská 2,49.1575319,16.6268300
+Bauhaus,Strážní 7,49.1771317,16.6008564
+OC Campus Square,"Netroufalky 770, Bohunice",49.1774869,16.5660742
+FUTURUM,Vídeňská 100,49.1558108,16.5975739
+GLOBUS,"Hradecká 40, Brno - Ivanovice"49.2620186,16.5790864
+Hornbach,Heršpická 3,49.1790303,16.6053739
+OD KLÁŠTER,Orlí 20,49.1936722,16.6118383
+NC Královo Pole,Cimburkova 4,49.2169217,16.6084875
+LETMO,Nádražní 2a,49.1916181,16.6124028
+Olympia Brno,"U Dálnice 777, Brno - Modřice",49.1381281,16.6330175
+OMEGA,nám. Svobody 9,49.1948364,16.6092108
+OG ORLÍ,Orlí 3,49.1933050,16.6102269
+OD ROZKVÉT,nám. Svobody 16,49.1941447,16.6082589
+OD TESCO Dornych,Dornych 4,49.1895147,16.6129286
+OG Vaňkovka,Ve Vaňkovce 1,49.1888369,16.6137447
+OC Velký Špalíček,Mečova 2,49.1932761,16.6069739

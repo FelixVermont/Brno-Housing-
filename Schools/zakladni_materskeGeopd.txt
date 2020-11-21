@@ -1,0 +1,27 @@
+,Název,Ulice/PSČ,PSČ,lat,lon
+0,Základní škola a Mateřská škola,Blanenská 1,621 00,49.4092286,16.64388983898627
+1,"Základní škola a Mateřská škola Brno, Bosonožské nám. 44, příspěvková organizace",Bosonožské nám. 44,642 00,49.1759109,16.5300263
+2,"Základní škola a Mateřská škola Brno, Zeiberlichova 49",Zeiberlichova 49,644 00,49.2555455,16.6223766
+3,"Základní škola a mateřská škola Brno, Antonínská 3, příspěvková organizace",Antonínská 550/3,602 00,49.2024404,16.6053996
+4,"Základní škola a Mateřská škola Brno Blažkova 9, příspěvková organizace",Blažkova 9,638 00,49.2306105,16.6265401
+5,Základní škola a Mateřská škola,Elišky Přemyslovny 10,625 00,49.1644534,16.568042
+6,"Základní škola a mateřská škola Brno, Horní 16, příspěvková organizace",Horní 16,639 00,48.9978287,14.4831466
+7,Základní škola a mateřská škola,Horníkova 1,628 00,49.2131394,16.6784333
+8,Základní škola a Mateřská škola,Husova 17,602 00,48.9778838,14.4607014
+9,"Základní škola a Mateřská škola Brno, Chalabalova 2, p. o.",Chalabalova 575/2,623 00,49.1926357,16.541861
+10,"Základní škola a Mateřská škola, Brno, Jana Broskvy 3, příspěvková organizace",Jana Broskvy 3,643 00,49.1345841,16.6555523
+11,"Základní škola a mateřská škola Brno, Jihomoravské nám. 2",Jihomoravské nám. 2,627 00,49.1795796,16.6854621
+12,Základní škola a mateřská škola,Kotlářská 4,602 00,49.2057457,16.5979003
+13,"Základní škola a mateřská škola Brno, Křenová 21, příspěvková organizace",Křenová 21,602 00,49.1921549,16.6193017
+14,Základní škola a mateřská škola,Křídlovická 30b,603 00,49.1871692,16.6006886
+15,"Základní škola a Mateřská škola Brno, Merhautova 37, příspěvková organizace",Merhautova 37,613 00,49.2056775,16.6242832
+16,"Základní škola a Mateřská škola Brno, Milénova 14",Milénova 14,638 00,49.2284005,16.6232369
+17,Základní škola a mateřská škola,nám. 28.října 22,602 00,49.2023284,16.6139146
+18,Základní škola J. A. Komenského a Mateřská škola,nám. Republiky 10,614 00,50.3704257,12.9147874
+19,"Základní škola a Mateřská škola Brno, náměstí Svornosti 7, příspěvková organizace",nám. Svornosti 7,616 00,49.21481765,16.580335498736048
+20,"Základní škola a Mateřská škola Brno, Pastviny 70, p. o.",Pastviny 70,624 00,50.0954925,16.5670575
+21,"Základní škola a mateřská škola Brno, příspěvková organizace",Přemyslovo nám. 1,627 00,49.1768338,16.6873241
+22,"Základní škola a Mateřská škola, Brno, Staňkova 14, příspěvková organizace",Staňkova 14,602 00,50.0360815,14.5323957
+23,Základní škola a Mateřská škola,Vedlejší 10,625 00,49.1710248,16.5715386
+24,"Masarykova základní škola a Mateřská škola Brno, Zemědělská 29, příspěvková organizace",Zemědělská 29,613 00,49.2120651,16.6221459
+25,"Waldorfská základní škola a mateřská škola Brno, Plovdivská 8, příspěvková organizace",Plovdivská 8,616 00,49.2172442,16.5809354

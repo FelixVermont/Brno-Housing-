@@ -1,0 +1,208 @@
+,Název,Adresa,lat,lon
+0,Městský plavecký stadion Lužánky,"Sportovní 486/4, 602 00",49.2144398,16.606964
+1,Aquapark Kohoutovice,Chalabalova 946/2a 623 00 Brno,49.1931997,16.5412361
+2,Sportovní a rekreační areál Kraví hora,Údolní 76 602 00 Brno,49.2017752,16.5854724
+3,Koupaliště Zábrdovice,Zábrdovická 158/13 615 00 Brno,49.2022681,16.6333387
+4,Koupaliště Riviéra,Bauerova 322/7 603 00 Brno,49.1881811,16.5693161
+5,Přírodní koupací biotop Brno-jih,K Lávce 749/13 619 00 Brno,49.1694792,16.6201724
+6,Masarykův okruh,Masarykův okruh 201 66481 Ostrovačice,49.2039897,16.4429027
+7,DRFG arena,Křídlovická 911/34 603 00 Brno,49.1854489,16.6020478
+8,Městská hala Vodova,Vodova 108 612 00 Brno,49.22768765,16.58399005507667
+9,Městský fotbalový stadion Srbská,B. Němcové 2299/47 612 00 Brno,49.3000097,16.5423197
+10,Městský baseballový stadion,Sokolova 2h 616 00 Brno,49.1674664,16.6239185
+11,Centrum sportovních aktivit VUT Brno,Technická 2896/2 616 69 Brno,49.2243800,16.5770078
+12,Boby Centrum – Laser Show Hall,Sportovní 2A 602 00 Brno,49.2121747,16.6080133
+13,Sportovně-rekreační areál Hněvkovského,Komárov 617 00 Brno,49.1780597,16.624729
+14,Sokolovna a společenské centrum Stadion,Kounicova 20 a 22  602 00 Brno,49.2031711,16.6007231
+15,Posilovna Velký Průvan,Vídeňská 28177,50.0203894,14.4639779
+16,Posilovna Malý Průvan,Celní 639 00,49.1789550,16.5964431
+17,AZ FITNESS s.r.o,Pražákova 1008/69,49.1761659,16.6055936
+18,BIG ONE FITNESS,Václavská 6,50.1748663,14.742232059483516
+19,City Gym Brno,Běhounská 22/24,49.1967493,16.609068
+20,Energy fitness club,Holandská 878/2,49.1802622,16.6057333
+21,posilovna Hybeska,Hybešova 437/46,50.0935573,14.4597837
+22,Fitko Kameňák,Oblá 469,49.17593495,16.555263949999997
+23,Fitness 3000,Divadelní 603,49.1948964,16.6142777
+24,AFIT centrum BRNO,Táborská 456/157,50.0627297,14.44044
+25,MišMaš Fitness Brno,Gajdošova 4392/7,49.200996,16.6450623
+26,BIG ONE FITNESS Club,Benešova 14,49.1932651,16.6135442
+27,Contours fitness,Orlí 482/3,49.1932642,16.610245
+28,ELITE Wellness & Fitness centrum,Husova 200,50.4353542,15.3600282
+29,Ladie´s GYM,Palackého tř. 516,49.094463,15.8916535
+30,Best Gym Horova,Horova 99,49.5960814,17.2891736
+31,Fitness Boby,"Bobycentrum, Sportovní 559/2A",49.2121747,16.6080133
+32,Fitness centrum IRON GYM,Řezáčova 805/5,49.2243694,16.5579929
+33,Fitness Progym,Kounicova 22/77b,49.2112777,16.5918188
+34,Weisser Sport Centrum s.r.o.,Hrnčířská 573,49.4149356,14.6585948
+35,Lázeňské a relaxační centrum Rašínova,Rašínova 643/12,49.1970936,16.6076683
+36,Fitness Petra,Labská 269,49.1710219,16.5595604
+37,Fitness club ZONE4YOU,tř. Gen. Píky 2026/11,49.2187694,16.6159025
+38,Power Fitness,Pekařská 25,50.1872889,14.6587447
+39,Euforia Fitness,Vodova 336/108,49.2268542,16.5840969
+40,Fitness EMS,Olomoucká 256/6,49.1903035,16.6336288
+41,OLD STYLE GYM,Cejl 107,49.2011143,16.6258407
+42,HULK GYM,Sportovní 581,50.0682984,14.4540981
+43,BFIT.CZ,Veveří 455/8,49.1992317,16.6029042
+44,Jumping Fitness Brno,Rašínova 12,49.1970936,16.6076683
+45,SmartGym posilovna tuřany,Východní 10,49.1438602,16.6712321
+46,Be Strong ,· Hudcova 504,49.236315,16.5818891
+47,Fitness Motivace,Kounicova 46/48,49.2017005,16.6018492
+48,Blackfield Gym,nám. SNP 32/1140,49.2181417,16.6215469
+49,Body Care - Sportovní a vzdělávací centrum,Palackého tř. 1891/162,49.094463,15.8916535
+50,Spinning & Fitness,Kounicova 685/20,49.2031581,16.6007047
+51,STAY FIT Brno,Stará osada 3984,49.2021915,16.6402072
+52,FRIENDS FITNESS,Arbesova 12,49.2263086,16.6267911
+53,Body Diamond,Údolní 25,48.8539263,16.77518
+54,Fitness u kostela,nám. 28. dubna 15,49.2262652,16.5293434
+55,Fitness Motivace,"Sportovní areál TJ Tesla, Halasovo nám. 7",49.2231764,16.6247056
+56,Blue Gym,Kotlářská 989/51a,49.2076526,16.6041096
+57,BodyTec Brno,Smetanova 284,49.2038075,16.6064278
+58,Fitness Evy Šabatové,Horníkova 2485/34,49.2130784,16.6820408
+59,Posilovna ORC,Foerstrova 3046/2B,49.2163461,16.5789191
+60,Bodyactive studio,Palackého třída 3063/45,49.2228736,16.5950714
+61,Fitness 2000,Blatnická 4383,49.2087542,16.6578667
+62,beFIT,"81, Lidická 960",49.2072481,16.6041436
+63,FIGURALINE - Fitness a rekondiční studio pro ženy,Těshnohlídkova 964/11,49.2080986,16.6241192
+64,Fortis Training,"Nové Semilasso, Palackého tř. 3048/124",49.2271119,16.5935081
+65,BODY EXPRESS,Pražákova 1008/69,49.1761659,16.6055936
+66,Gold's Gym Brno,Hapalova 23,49.251334,16.587889
+67,Matrix Gym,tř. Kpt. Jaroše 28,49.2040147,16.6108578
+68,Fit4All,Chironova 8,49.1760833,16.548354
+69,Gym&Joy,Špitálka 124,48.9446781,17.1759709
+70,Fit Centrum Machina,Kolejní 2905,49.2313152,16.5704254
+71,Venkovní posilovna Habřinova,Habřinova 779,49.2262025,16.554458
+72,SPCgym,"76, Cejl 29",49.2017267,16.6266167
+73,InCore Fitness,Rokytova 4259/1,49.2093172,16.6479114
+74,FITINN Fitnessstudio,Nádražní 681,49.1892784,16.6064096
+75,VUTGYM,Údolní 244,50.0300447,14.4071132
+76,BodyBody Brno,Nové sady 25,49.1879232,16.6066202
+77,Miss Women Fitness,Orlí 542/27,49.1945097,16.6131353
+78,Hany bany Brno - Komín,Čichnova 1294/23a,49.2137473,16.5606584
+79,Elite Gym Brno Training Centre,Zábrdovická 25,49.2022886,16.6291965
+80,FITNESS NA KONEČNÉ,Libušina tř. 825,49.1880619,16.5354503
+81,Campea Fitzone,Studentská 1,48.9791095,14.4556225
+82,KANTORFITNESS,Dobrovského 96,49.2178817,16.5884464
+83,CrossFit NewPark,Heršpická 6,49.1807113,16.6027123
+84,73GYM BRNO,Pálavské nám. 5,49.2055666,16.6607122
+85,SPORTMAX,Štouračova 1154/1a,49.2172329,16.5199628
+86,Wanderfit - EMS cvičení Brno,M. Horákové 25,49.2244626,15.8760419
+87,Czech Virus Gym,Kubíčkova 1080/6,49.2208318,16.5182293
+88,Ultimate Gym Brno,Masarova 2428/9,49.2062134,16.675669
+89,Eduard Knoll,Masná 403/110,49.1821811,16.6259895
+90,Soukromé Fitstudio,Masná 403,49.1821811,16.6259895
+91,Sportareál Družstevní,Družstevní 1195,49.7141544,14.8975287
+92,Hala Rosnička,Horákova 3080,49.206502,16.5767196
+93,Jumping Centrum Brno,Husova 16,49.4088438,14.6771659
+94,Orel jednota Brno - Bohunice,Hraničky 301,49.1683864,16.5765821
+95,Tělocvična Pod Hradem,Údolní 221,49.4078827,14.6723928
+96,PS fitness,Tuřanka 1222/115,49.1684601,16.6789298
+97,PP studio Brno - Horní Heršpice,Vodařská 232,49.1763214,16.616458
+98,SPINNING-BRNO.cz," 157, Táborská 456",49.1936389,16.6397569
+99,Nové Fitness,Komárovská 466,49.1805978,16.6187614
+100,Osobní fitness trenér Michal Hatony,Vídeňská 281/77,49.5906756,17.248477
+101,CONTOURS FITNESS IBC Brno,Příkop 4,49.2001436,16.6139364
+102,Fitpeople Modřice,Brněnská 404,48.8080565,16.6379203
+103,MONSTER Gym,Tuřanka 1,49.1766574,16.6873833
+104,Petr Sedláček fitness trenér,Nádražní 681/2a,49.1892784,16.6064096
+105,Muay Thai,Dornych 102,49.1835444,16.6210813
+106,Fit-studio Eva,Vodařská 232,49.1763214,16.616458
+107,JETSAAM GYM BRNO,Pálavské nám. 4246/5,49.2055745,16.6602478
+108,mamaGYM Brno,Špitálka 35,49.1923221,16.6208779
+109,Yoga Brno - Fitness studio s.r.o.,Dobrovského 96/29,49.2178817,16.5884464
+110,TJ TESLA BRNO,Halasovo nám. 826,49.2233723,16.6248062
+111,4Comfort,Fryčajova 698/29,49.2306694,16.6486834
+112,COREGYM - Jan Florian,Francouzská 421,49.2022862,16.6224651
+113,Rehabfit Brno Kamechy 1025/55,Kamechy 1025/55,49.2157364,16.4948305
+114,Gym Blue Sun,Jihomoravské nám. 3/3,49.1794926,16.6858771
+115,Eva Veselá,Jílová 168,49.1775293,16.5939207
+116,Wellness Centrum Martiny Zábranské,M. Horákové 9,49.223882,15.8769183
+117,Yoga Brno - Fitness studio s.r.o.,Lidická 702/23,49.7707231,13.3766676
+118,Roma gym,Soudní 241/11,49.1999226,16.6216681
+119,Fitcentrum Kounicova,Kounicova 46,49.2089706,16.5952923
+120,Michal Hatony - Fitness trenér,Divadelní,49.7424764,18.6136478
+121,Petra Pláničková (Urbánková),Rokytova 1,49.2093172,16.6479114
+122,Pavel Řezáč - fitness trenér a masér,Sportovní 559/2A,50.0682984,14.4540981
+123,Dětská jóga - Yoga Brno - Fitness studio s.r.o.,Zábrdovická 25/2,49.2022886,16.6291965
+124,The Little Gym Brno,Kigginsova 2,49.18117705,16.66819979812376
+125,MYSTIK Brno - SPINNING® centrum Židenice,Gajdošova 4392,49.200996,16.6450623
+126,CrossFit DESTINY,Palackého tř. 250/29,49.094463,15.8916535
+127,Pilates Havlik (areál Mišmaš fitness centrum),Gajdošova 7,49.200996,16.6450623
+128,Tančící dům,Špitálka 124,48.9446781,17.1759709
+129,Fit Studio Jana,Veveří 486,49.2032004,16.5968983
+130,Aqua aerobic Brno,Arménská 573/21,49.1678109,16.5806125
+131,Fitness By Michaela,Gajdošova 4392,49.200996,16.6450623
+132,Active Fitness,Družstevní 21,50.0623934,14.445889
+133,Posilovna Říčany,V Dědině 650,49.2137374,16.390264
+134,Dětské hřiště Vodní,Kopečná 917,48.9928744,16.8635614
+135,CrossFit MadMan,Vídeňská 297/99,50.0203894,14.4639779
+136,Lázně Rašínova,Rašínova 643,50.0755201,14.7134488
+137,Tenisové kurty a hala fit4all,Chironova 544/8,49.1760833,16.548354
+138,Aquapark Kohoutovice,Chalabalova 946/2a,49.1931998,16.5412361
+139,Lucie Kopečná,Masná 403/110,49.1821811,16.6259895
+140,MY FIT I active & pilates studio Lenky Velínské a Romana Ondráška,Koliště 1912,49.1999715,16.6098167
+141,Zumba s Míšou - Zumba v Brně,Václavská 6,50.1748663,14.742232059483516
+142,PILATES POINT,Jílová 29b,49.1791414,16.5937679
+143,Tréninkové centrum Brno,Sochorova 19/22,49.2135991,16.5670619
+144,BODY EXPRESS,Moravské nám. 14,49.1994546,16.6053415
+145,Centrum Tance Brno,Hybešova 255/17,49.1890486,16.6054479
+146,Workout hřiště,Lužánecká 1888/10,49.2044105,16.6091876
+147,Beat Up Calisthenics,Stará 11,29.9638125,31.1053705
+148,Kuželna KK Moravská Slávia Brno,Vojtova 541/12,49.1836016,16.5961683
+149,Dream Team Kickbox Brno,Žižkova 3044,48.8148305,16.6522633
+150,masáže/ jóga,Veveří 476/39,49.2017435,16.598672
+151,Atletický tunel,Oblá 469,49.17593495,16.555263949999997
+152,FitCoach,Dvořákova 13,50.3280519,13.5440244
+153,SK TART Moravská Slávia Brno,Vojtova 785,49.1833939,16.5991897
+154,Akademie karate Brno,Václavská 237/6,49.189528,16.5974625
+155,Sportovní hala TJ Sokol Brno I,Kounicova 20,49.2031581,16.6007047
+156,Fitness & Wellness Shop ForActiv.cz Brno,"75, Plotní 688",49.1822422,16.6204053
+157,Taurus Club z.s,Cejl 494/25,49.1975969,16.6179561
+158,Movement education,Kounicova 685,49.2031581,16.6007047
+159,Jízdárna Brno Veveří,Žižkova 980,48.8148305,16.6522633
+160,Kuželna SK Brno-Žabovřesky,Fanderlíkova 3083/17,49.212033,16.5721053
+161,VSK VUT Skurut Hai Brno florbalový tým,Technická 3013/14,49.226602,16.573361
+162,MMAG Brno,Rybnická 60/75,48.9734252,22.1893502
+163,Yoga Shala Brno,"18, Hybešova 256",49.189279,16.6046024
+164,Iyengar Yoga Centrum Brno,Botanická 51,48.147818,17.0646319
+165,Tj Sokol Brno Areál Stadec,Sokolská 687/3,48.9829732,14.4548322
+166,Kuželna TJ Sokol Brno IV,Štolcova 551/8,49.1891733,16.6354299
+167,Veřejné hřiště na pétanque,"Špilberk, Brno-město, Brno",49.1955153,16.5967466
+168,Kuželna KK Brno-Židenice,Pechova 1497/6a,49.1968703,16.6447061
+169,Plavecké kurzy Brno,Poděbradova 267,49.2169331,16.6003819
+170,TJ Sokol Starý Lískovec,Máchalova 364/4,49.164152,16.5633019
+171,Wudang Brno,Rašínova 119/3,49.1962341,16.6075974
+172,Aikikai Aikido Brno,Křenová 89/19,49.1922554,16.6186873
+173,Paintball Hall Brno,Hybešova 956/1,49.1882572,16.6088251
+174,Aikido Yoshinkan Brno,Veveří 462/15,49.1996673,16.6016996
+175,Fitness Prodejna Brno,Nováčkova 418,49.2083415,16.6295423
+176,Karate klub Brno,M. Horákové 323,48.9843361,14.4403231
+177,Pure Yoga Studio Brno,Malinovského nám. 4,49.1953649,16.6141236
+178,Studio Artík,Rybkova 23,49.2027005,16.5880212
+179,Joga ve vzduchu®,Minoritská 10,49.1939451,16.6109946
+180,Jiri Novák,Erbenova 372,49.2092979,16.6104386
+181,Jakub Mašek: Tenisový trenér Brno,Chironova 8,49.1760833,16.548354
+182,Škola Tae Kwon-do Club Brno ITF,Cejl 60/61,49.1988394,16.6212889
+183,Bistro anatomy Yoga & Akrobacie & Nový cirkus,Starobrněnská 33/16,49.1924948,16.6067044
+184,"VSK Technika Brno, oddíl krasobruslení p. s. - Krasobruslení Brno",Střední 595/26,49.8331353,18.2867567
+185,Yoga Garden Brno,Veveří 455/8,49.1992317,16.6029042
+186,Velodrom,Křížkovského 416/22,49.1839386,16.5798132
+187,Sokol Tyrš Brno,Francouzská 87,49.2022862,16.6224651
+188,Blue Star Brno,Purkyňova 2640/93,49.2234304,16.5827784
+189,"Fyzioterapie Brno - SM systém, Yoga, Pilates - Fyzio5",Merhautova 1070/224,49.2170327,16.6283541
+190,Sdružení Jóga v denním životě,Bezručova 66,49.6756126,18.6669875
+191,Městské haly Vodova,Vodova 108,49.22768765,16.58399005507667
+192,Hokejová hala Úvoz,Úvoz 1012,49.2035876,16.5912127
+193,Panther BJJ Brno,Mlýnská 453/65,48.8077928,16.640583
+194,Petra Donociková,Pekařská 3,49.9395936,17.9024925
+195,Combatives sebeobrana Brno,Šujanovo nám. 1,49.1894029,16.6204273
+196,RPR PAINTBALL SPORT,Hybešova 956,49.1882572,16.6088251
+197,Hung Gar Kung Fu Škola Brno,Jana Babáka 2733/11,49.216523,16.5882278
+198,YOGA i-D,Poštovská 68/3,49.1948655,16.6103773
+199,Krav Maga Academy Brno,nám. 28. října 22,49.2023284,16.6139146
+200,MFG - Magic Free Group,Vídeňská 297/99,50.0203894,14.4639779
+201,PumpTrack Brno - Lesná,Dusíkova 795/7,49.2370849,16.6263225
+202,Orlovna Brno-Bohunice,Hraničky,49.7596366,18.1597091
+203,GYM13,Benešova 274,49.1293038,16.6069813
+204,Judo Budo Brno,Gajdošova 1282,49.2023284,16.6437119
+205,Krav Maga Brno KMCS,Cejl 29,49.2020152,16.6266435
+206,Dave Fitness,Jana Babáka 5,49.2147281,16.5892056

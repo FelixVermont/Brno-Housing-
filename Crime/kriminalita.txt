@@ -1,0 +1,9 @@
+Oblast,index
+Bystrc,166
+Komárov,489
+Královo Pole,225	
+Sever,242
+Střed,936
+Výstaviště,207
+Žabovřesky,224
+Židenice,249

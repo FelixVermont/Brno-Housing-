@@ -1,0 +1,8 @@
+,Název,lat,lon
+0,Brno Business Park,49.1711236,16.5982322
+1,H-Park,49.1741561,16.6035561
+2,Spielberg office,49.1802672,16.6057339
+3,Brněnská průmyslová zóna – Černovická terasa,49.1781250,16.6656436
+4,Campus science Park,49.1763100,16.5652906
+5,Tuřanka,49.1676967,16.6773767
+6,Ponávka,49.1975028,16.6157944

@@ -1,0 +1,16 @@
+,Název,Adresa,lat,lon
+0,Kino Scala,Moravské náměstí  3,49.1973409,16.608146
+1,Kino Art,Cihlářská 19,49.2043022,16.6034621
+2,Fléda,Štefánikova 24,49.2098847, 16.6033536
+3,Letní kino Špilberk,Lení Terasa Brno - hrad Špilberk,49.1947289,16.5981417
+4,Industra,Masná 9,50.0893661,14.4239497
+5,Kino Lucerna Brno,Minská 19,52.11042585,21.592075394337016
+6,Letní kino Brno na Dvoře MdB,Lidická 12,50.0726325,14.4085675
+7,Cinema City Velký Špalíček,Mečová 2,49.1930786,16.6073627
+8,Letní kino Na Riviéře,Bauerova 7,48.7141513,21.2126943
+9,Letní kino Brno-střed,Dominikánská 2,49.1930213,16.6058765
+10,Cinema City Olympia,U Dálnice 777,49.1394586,16.6315115
+11,Letní kino Na Dobráku,Dobrovské 29,49.2182197, 16.5892581
+12,Sál Břetislava Bakaly,Žerotínovo náměstí 6,49.1983495,16.6021802
+13,Restaurace Kinokavárna,Námestí SNP 33,49.0833186,19.59036359553001
+14,Kino No Art,Radnická 4,44.78516625,20.413874869007174

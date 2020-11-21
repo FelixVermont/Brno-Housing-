@@ -1,0 +1,12 @@
+nazev,adresa,PSČ,lat,lon
+Mateřská školka Dráček,Bayerova 794/25,602 00,49.2077947,16.6009953
+Atrium školka,Husova 167/7,602 00,49.1924139,16.6048436
+Mateřská škola Safirka,Pavlovská 16,623 00,49.1909189,16.5279389
+Mateřská škola Sluníčko – Brno střed,Nám. 28. října 1106/16,602 00,49.2035817,16.6138364
+Mateřská škola Sluníčko – Bzenecká,"Bzenecká 4226/23,",628 00,49.2074875, 16.6568508
+Mateřská škola Sluníčko – Jana Babáka,Jana Babáka 2733/11,612 00,49.2165269,16.5881706
+Mateřská škola Sluníčko – Šrámkova,Šrámkova 432/14,638 00,49.2264528,16.6252517
+Mateřská škola Basic Brno,Šámalova 10,615 00,49.1946397,16.6360375
+Viki Kids Club,Vodařská 2,619 00,49.1763422,16.6164758
+Anglická školička,Staňkova 359/8a, 60200,49.2089542,16.6058236
+Veselá školka,Kuklenská 1546/38,61500,49.1948317,16.6330881

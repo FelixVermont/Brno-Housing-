@@ -1,0 +1,113 @@
+,nazev,adresa,"psč,,,,",lat,lon
+0,Mateřská škola,Absolonova 20a,"624 00,,,,",49.2194482,16.5585086
+1,Mateřská škola,Amerlingova 4,"625 00,,,,",49.1677711,16.5781947
+2,Mateřská škola,Bellova 2,"623 00,,,,",49.0802062,18.9313522
+3,Mateřská škola Pohádka,Běloruská 4/570,"625 00,,,,",49.1702133,16.5805432
+4,Mateřská škola,Bieblova 16,"613 00,,,,",49.2176474,16.6189409
+5,Mateřská škola,Bílého 24,"602 00,,,,",49.1987779,16.5802695
+6,Mateřská škola Sněhurka,Bořetická 26,"628 00,,,,",49.2020913,16.6623564
+7,Mateřská škola,Bořetická 7,"629 00,,,,",49.2029633,16.6581675
+8,Mateřská škola,Bosonožská 4,"625 00,,,,",49.1669366,16.55389746571794
+9,Mateřská škola,Božetěchova 65,"612 00,,,,",49.2296982,16.592847
+10,"Mateřská škola POHÁDKA, Brno, Bratří Pelíšků 7, příspěvková organizace",Bratří Pelíšků 7,"628 00,",49.2017065,16.6959903
+11,Mateřská škola,Brechtova 6,"638 00,,,,",50.0359352,14.5154533
+12,"Mateřská škola,Brno,Bulharská 62,příspěvková organizace","Bulharská 62,",612 00,49.2279172,16.5910845
+13,"Mateřská škola Brno, Cihelní 1a, příspěvková organizace",Cihelní 1a/560,"614 00,,",49.2303237,16.6470853
+14,Mateřská škola,Černopolní 3a,"613 00,,,,",49.201992,16.6176401
+15,"Mateřská škola Kamarád, Brno, Čtvrtě 3, příspěvková organizace",Čtvrtě 3,"634 00,",49.1785034,16.560571
+16,"Mateřská škola, Brno, Dobrovského 66, příspěvková organizace",Dobrovského 66,"612 00,",49.2190039,16.5901053
+17,Mateřská škola Žabka,Drdy 25,"641 00,,,,",49.2099509,16.4882191
+18,"Mateřská škola Oříšek Brno, Drozdí 210/2c, příspěvková organizace",Drozdí 210/2c,"621 00,,",49.2751626,16.6070657
+19,"Mateřská škola Brno, Dubová 2, příspěvková organizace",Dubová 2,"637 00,,",49.2117328,16.5493374
+20,"Mateřská škola, Brno, Elišky Krásnohorské 15, příspěvková organizace",Elišky Krásnohorské 15,"618 00,",50.7826654,15.076811
+21,"Mateřská škola, Brno, Fanderlíkova 9a, příspěvková organizace",Fanderlíkova 9a,"616 00,",49.21053,16.575273
+22,"Mateřská škola Brno,Francouzská 50,příspěvková organizace",Francouzská 50,"602 00,,",49.2020036,16.6207814
+23,Mateřská škola,G. Preissové 8,"616 00,,,,",48.8576355,17.1313968
+24,Mateřská škola,Hatě 19,"621 00,,,,",49.8808005,14.1647926
+25,"Mateřská škola,Brno,Herčíkova 21,příspěvková organizace",Herčíkova 21,"612 00,",49.230527,16.586089
+26,"Mateřská škola Rozárka, Brno, Herčíkova 12, příspěvková organizace",Herčíkova 2477/12,"612 00,",49.2302742,16.5835876
+27,Mateřská škola,Hněvkovského 62,"617 00,,,,",49.1699922,16.625478
+28,"Mateřská škola, Brno, Hochmanova 25, p.o.",Hochmanova 25,"628 00,",49.2109117,16.6855033
+29,"Mateřská škola Brno, Holásecká 11, příspěvková organizace",Holásecká 11,"620 00,,",49.1479358,16.6632592
+30,"Mateřská škola ,,Na kopečku u zvonečku",Horní 17,"639 00,,",49.7283263,18.616745
+31,"Mateřská škola Brno, Hudcova 435/47, příspěvková organizace",Hudcova 435/47,"621 00,,",49.2375919,16.5807877
+32,"Mateřská škola, Brno, Chodská 15, příspěvková organizace",Chodská 15,"612 00,",50.0742435,14.4456952
+33,Mateřská škola,Chodská 491/5,"602 00,,,,",49.2129206,16.595755
+34,Mateřská škola Pastelky,Jamborova 11,"615 00,,,,",49.19748,16.6470371
+35,"Mateřská škola Brno, Jihomoravské nám. 5, p. o.",Jihomoravské nám. 5,"627 00,,",49.1789671,16.6861165
+36,"Mateřská škola Brno, Jugoslávská 70, příspěvková organizace",Jugoslávská 70/627,"613 00,,",49.2084619,16.6227625
+37,Mateřská škola Zvídálek příspěvková organizace,Kachlíkova 17/1046,"635 00,,,,",49.2206908,16.5131178
+38,Mateřská škola Skřivánek,Kachlíkova 19,"635 00,,,,",49.2207213,16.5124181
+39,"Mateřská škola DUHA, Brno, Kachlíkova 21, p.o.",Kachlíková 21,"635 00,",49.2206751,16.5118193
+40,Mateřská škola,Kamenáčky 28,"636 00,,,,",49.192105850000004,16.65215569210526
+41,"Mateřská škola Brno, Kamenná",Kamenná 21,"639 00,,,",50.7417891,14.2022751
+42,"Mateřská škola Brno, Kárníkova 4, příspěvková organizace",Kárníkova 4,"621 00,,",49.2528114,16.5830061
+43,"Mateřská škola KAMECHY, Brno, Kavčí 3, příspěvková organizace","Kavčí 3, Říčanská 18",635 00,49.2178083,16.4991083
+44,Mateřská škola,Klášterského 14,"617 00,,,,",50.0090336,14.4056096
+45,Mateřská škola,Kneslova 7,"618 00,,,,",49.1844388,16.6432824
+46,Mateřská škola Brno,Kohoutova 6,"613 00,,,,",49.2168877,16.6323122
+47,"Mateřská škola NA OSADĚ, Brno, Koperníkova 6",Koperníkova 6,"615 00,,",49.20311705,16.639017460402336
+48,Mateřská škola,Křenová 76a,"602 00,,,,",49.19082,16.6278231
+49,Mateřská škola,Kšírova 3,"617 00,,,,",49.1746914,16.6210666
+50,Mateřská škola,Labská 7/268,"625 00,,,,",48.9970155,14.4549765
+51,Mateřská škola,Laštůvkova 57/59,"635 00,,,,",49.2193622,16.5225113
+52,"Mateřská škola Brno, Letní 3 ,615 00 Brno - příspěvková organizace",Letní 3/1352,"615 00,,",49.1922967,16.6357758
+53,Mateřská škola,Libušina tř. 29,"623 00,,,,",49.1877844,16.5359978
+54,Mateřská škola,Marie Majerové 14/792,"638 00,,,,",49.220669,16.6318428
+55,Mateřská škola FAMILY,Mazourova 2,"636 00,,,,",49.1905532,16.657865
+56,Mateřská škola Brno,Měřičkova 46,"621 00,,,,",49.2456565,16.5844832
+57,Mateřská škola RADOST,Michalova 2,"628 00,,,,",53.87880395,27.476945137571427
+58,Mateřská škola,mš snp 25a.Brno 61300,"638 00,,,,",49.2190731,16.6202394
+59,Mateřská škola,Nádvorní 3/704,"603 00,,,,",49.1867646,16.6000731
+60,Mateřská škola,Neklež 1a,"628 00,,,,",49.2010608,16.6812779
+61,"Mateřská škola, Brno, Nopova 15",Nopova 15,"615 00,,",49.1968184,16.6515141
+62,Mateřská škola,Novoměstská 1,"621 00,,,,",50.3929576,16.1484763
+63,"Mateřská škola Pomněnky, Brno, Oblá 51,příspěvková organizace",Oblá 51,"634 00,",49.1754547,16.557210595107755
+64,Mateřská škola,Oderská 2,"625 00,,,,",49.7750126,17.7511375
+65,Mateřská škola Studánka,Ondrova 25,"635 00,,,,",49.2367876,16.5273631
+66,Mateřská škola Zdislava,Pellicova 4,"602 00,,,,",49.1928774,16.6028305
+67,"Mateřská škola Beruška, Brno, Plovdivská 6, příspěvková organizace",Plovdivská 6,"616 00,",50.0061884,14.4193956
+68,Mateřská škola,Proškovo nám. 6,"614 00,,,,",49.2207587,16.6445034
+69,"Mateřská škola Prušánecká 8,Brno,příspěvková organizace",Prušánecká 8,"628 00,,",49.2083416,16.6610044
+70,"Mateřská škola Brno, Pšeník 18, příspěvková organizace",Pšeník 18,"639 00,,",44.370629,17.2847069
+71,"Mateřská škola,Brno,Puchýřova 13a příspěvková organizace",Puchýřova 13a,"628 00,,",49.2091825,16.6896714
+72,Mateřská škola,Purkyňova 21,"612 00,,,,",49.2192287,16.585797
+73,"Mateřská škola Vážka, Brno, Rybnická 45, příspěvková organizace",Rybnická 45,"634 00,",48.9734252,22.1893502
+74,Mateřská škola,Řezáčova 3,"624 00,,,,",49.2239865,16.55776
+75,Mateřská škola,Skořepka 5/368,"602 00,,,,",50.0836137,14.4200443
+76,Mateřská škola,Slavíčkova 1,"638 00,,,,",50.0990793,14.4106662
+77,Mateřská škola,Slunná 25,"617 00,,,,",49.1749029,16.626121
+78,Mateřská škola,Soukenická 8,"602 00,,,,",49.1883765,16.6049954
+79,Mateřská škola SLUNÍČKO,Strnadova 13,"628 00,,,,",49.2051487,16.6693703
+80,Mateřská škola,Synkova 24,"628 00,,,,",49.207908,16.6767374
+81,Mateřská škola,Šaumannova 20,"615 00,,,,",49.2018018,16.6466254
+82,"Mateřská škola Brno, Škrétova 2, příspěvková organizace",Škrétova 2,"621 00,,",50.0774235,14.4317744
+83,"Mateřská škola Brno, Šrámkova 14, příspěvková organizace",Šrámkova 14,"638 00,,",49.2264893,16.6256319
+84,"Mateřská škola Brno, Šromova 55, příspěvková organizace",Šromova 55,"643 00,,",49.1290562,16.6530969
+85,Mateřská škola,Štolcova 21,"618 00,,,,",49.1886921,16.6362511
+86,Mateřská škola,Štolcova 51,"618 00,,,,",49.1872788,16.637568
+87,Mateřská škola SLUNÍČKO,Štouračova 23/1249,"635 00,,,,",49.2154078,16.5171331
+88,"Mateřská škola Brno, Švermova 11, příspěvková organizace",Švermova 11,"625 00,,",49.167332849999994,16.57077799610997
+89,Mateřská škola,Tišnovská 169,"614 00,,,,",49.2142193,16.62823
+90,Mateřská škola,Trnkova 81,"628 00,,,,",49.2015856,16.6870795
+91,Mateřská škola,Tučkova 36,"602 00,,,,",49.20829354999999,16.597727943534117
+92,"Mateřská škola Paraplíčko Brno, Tumaňanova 59,příspěvková organizace",Tumaňanova 59,"621 00,,",49.2617053,16.5943756
+93,Mateřská škola,U Lípy Svobody 3,"620 00,,,,",49.1521273,16.6567016
+94,Mateřská škola Adélka,U Velké ceny 8,"623 00,,,,",49.1977708,16.5324477
+95,Mateřská škola,Údolní 155/68,"602 00,,,,",49.0831769,17.488352
+96,Mateřská škola POD ŠPILBERKEM,Údolní 9a,"602 00,,,,",49.1962633,16.6012606
+97,Mateřská škola,ulice Kosmonautů 2,"625 00,,,,",49.1674044,16.5598406
+98,Mateřská škola Brno,Úvoz 57,"602 00,,,,",49.2040541,16.5915864
+99,"Mateřská škola Brno, Uzbecká 30, příspěvková organizace",Uzbecká 569/30,"625 00,,",49.1717322,16.5817498
+100,Mateřská škola,V Aleji 2/101,"620 00,,,,",49.1478144,16.6486175
+101,"Mateřská škola,Brno,Vackova70",Vackova 70,"612 00,,",49.3027943,15.0767389
+102,Mateřská škola,Velkopavlovická 15,"628 00,,,,",49.2038801,16.6622985
+103,Mateřská škola,Veslařská 256,"637 00,,,,",49.1938894,16.5637196
+104,Mateřská škola,Vídeňská 39a,"639 00,,,,",50.0203894,14.4639779
+105,Mateřská škola Milosrdných bratří s.r.o.,Vídeňská 7,"639 00,,,,",49.5906788,17.2488146
+106,Mateřská škola,Vinařská 4,"603 00,,,,",48.8587603,16.8063963
+107,Mateřská škola,Všetičkova 19,"602 00,,,,",49.1977807,16.5888039
+108,Mateřská škola,Záhumenice 1,"619 00,,,,",49.1641551,16.613341
+109,Mateřská škola,Zelná 70,"619 00,,,,",49.145823,16.6204429
+110,Mateřská škola Sedmikráska,Zengrova 3,"615 00,,,,",49.1970202,16.6383243
+111,Mateřská škola,Žižkova 57,"616 00,,,,",50.3043026,12.5569834
