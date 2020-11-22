@@ -1,0 +1,31 @@
+,název,Adresa,lat,lon
+0,Divadelní studio Véčko,"Brno, Veveří 133",49.2101344,16.5870076
+1,Divadlo Polárka,"Brno, Tučkova 34",49.20807,16.5976968
+2,Městské divadlo Brno,"Brno, Lidická 16",49.20157015,16.608292153720296
+3,Buranteatr,"Brno, Kounicova 22",49.2035756,16.6001851
+4,Taneční divadlo Mimi Fortunae,"Brno, Merhautova 51",49.2070284,16.6237899
+5,Divadlo Aldente,"Brno, Špilberk - Hlídka 2",49.1940078,16.6029900
+6,Zbrojovkapůl,"Brno, Lazaretní 1",49.2034691,16.629675
+7,Divadlo Radost,"Brno, Bratislavská 32",49.19891,16.6177972
+8,Divadlo Husa na provázku,"Brno, Zelný trh 9",49.1919549,16.6078883
+9,Janáčkovo divadlo,"Brno, Rooseveltova 1",49.1983087,16.6085747
+10,Divadelní studio V,"Brno, Veveří 313",49.256633949999994,16.460933765444583
+11,Divadlo Reduta,"Brno, Zelný trh 4",49.192094,16.6093599
+12,Divadlo Barka,"Brno, Svatopluka Čecha 35a",49.221401,16.5913975
+13,G-studio,"Brno, Kounicova 22",49.2035756,16.6001851
+14,Divadlo Bolka Polívky,"Brno, Jakubské náměstí 5",49.1971875,16.6083509
+15,Divadlo U stolu,"Brno, Zelný trh 9",49.1919549,16.6078883
+16,Divadelní studio Marta,"Brno, Bayerova 5",49.2058408,16.602003333483296
+17,Mahenovo divadlo,"Brno, Malinovského nám. 1",49.1959028,16.6136758
+18,Divadlo Líšeň,"Brno, Obecká 13",49.2137221,16.7022224
+19,Divadlo Neslyším,"Brno, Cejl 87 ",49.1995557,16.6249294
+20,Národní Divadlo v Brně,"Brno, Dvořákova 11",49.196586,16.6129203
+21,Divadelní dvůr MdB,"Brno, Lidická 12",49.2010752,16.6085164
+22,Divadlo na Orlí / Hudebně-dramatická laboratoř JAMU,"Brno, Orlí 19",49.19419415,16.612188192803657
+23,Divadlo II.PÁD,"Brno, Jana Uhra 11",49.2023796,16.5965492
+24,Galerie Třináctka Brno,"Brno, Panská 13",49.1933508,16.6078146
+25,Divadlo Za hradbami,"Brno, Křížová 20",49.1879683,16.5939567
+26,HaDivadlo,"Brno, Poštovská 8D",49.1948434,16.6101543
+27,Paradox divadelní studio,"Brno, Křížová 95/20",49.1879594,16.5938684
+28,Muzeum loutek,"Brno, Bratislavská 216/32",49.19891,16.6177972
+29,Husův sbor Královo pole,"Brno, Charvatská",49.2206014,16.5916367
