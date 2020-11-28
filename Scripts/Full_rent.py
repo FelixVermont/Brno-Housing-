@@ -1,10 +1,18 @@
+#!/usr/bin/env python3
+
 import pandas as pd
 import numpy as np
 
-realset = pd.read_csv('Reality/pronajem_bezrealitky.csv')
-realset = realset[['city','city_district','price','type','area','building_type','penb','equipment','floor','balcony','terace','lift','garage']]
+realset = pd.read_csv('Reality/bezrealitky-brno-pronajem.csv')
+
+realset = realset[['city','city_district','price','type','area','building_type','penb','equipment','floor','balcony','terace','lift','garage', 'coordinates']]
+
+realset[['lat','lon']] = realset['coordinates'].str.split(',',1,expand=True)
+
+realset = realset[['city','city_district','price','type','area','building_type','penb','equipment','floor','balcony','terace','lift','garage', 'lat', 'lon']]
 
 realset = realset[realset['city']=='Brno']
+
 rent = 'Rent'
 realset['demand'] = rent
 
@@ -35,4 +43,4 @@ realset['smoking'] = np.random.randint(0,2, realset.shape[0])
 #state
 realset['state'] = np.random.randint(0,3, realset.shape[0])
 
-realset.to_csv(r'Reality/Full_Realset.csv', index = False)
+realset.to_csv(r'Reality/Full_Realset_pronajem.csv', index = False)

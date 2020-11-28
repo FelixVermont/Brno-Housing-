@@ -1,0 +1,305 @@
+city,city_district,price,type,area,building_type,penb,equipment,floor,balcony,terace,lift,garage,lat,lon,demand,group,individual,family,men,women,students,working,pensioners,cellar,parking,pets,smoking,state
+Brno,Komárov,10500,Garsoniéra,20,1,C,3,2,True,False,False,False,49.173926,16.62328,Rent,1,1,1,1,0,1,0,1,0,1,1,0,0
+Brno,Město Brno,21500,2+kk,61,1,G,0,5,True,False,True,False,49.195902,16.609039,Rent,0,1,1,0,1,0,1,1,1,0,1,1,2
+Brno,Město Brno,15000,3+kk,101,1,C,2,3,False,False,True,False,49.198531,16.61041,Rent,0,1,1,0,1,0,1,0,0,0,0,1,0
+Brno,Zábrdovice,8900,1+kk,20,1,B,3,2,False,False,True,False,49.19528,16.617736,Rent,0,0,1,1,0,1,1,1,0,1,1,1,0
+Brno,Žebětín,11000,2+kk,58,1,,3,1,True,False,False,False,49.2027496,16.4835615,Rent,0,1,1,1,0,0,1,1,0,1,0,0,0
+Brno,Žebětín,12500,2+kk,48,1,A,2,4,True,False,False,False,49.219167150249,16.496077072561,Rent,0,0,0,0,0,0,1,1,1,0,0,1,2
+Brno,Židenice,12000,1+1,40,1,,3,0,False,True,False,False,49.1945705431,16.6369552563,Rent,0,1,1,1,0,1,1,1,0,0,0,0,1
+Brno,Mokrá Hora,15000,2+1,65,1,A,1,0,False,False,False,False,49.257688,16.593744,Rent,1,1,0,1,1,0,1,0,0,0,0,0,1
+Brno,Medlánky,14300,3+1,89,1,G,3,2,True,False,False,False,49.240357,16.578353,Rent,1,1,0,1,0,1,0,0,0,0,0,1,0
+Brno,Bohunice,11500,2+kk,45,2,B,2,3,False,False,True,False,49.16791,16.576652,Rent,0,1,0,0,1,1,1,1,0,1,1,1,2
+Brno,Zábrdovice,15000,2+kk,67,0,,3,5,False,False,False,False,49.198561,16.618322,Rent,1,0,1,1,0,1,1,0,0,0,0,0,2
+Brno,Žabovřesky,12041,2+kk,40,0,,3,2,False,True,False,False,49.216337,16.5708489,Rent,1,0,0,1,0,0,0,0,1,0,0,0,2
+Brno,Štýřice,13000,2+1,56,1,,2,1,True,False,False,False,49.178756733402,16.590879391788,Rent,0,0,1,1,0,0,0,1,0,0,1,1,1
+Brno,Židenice,14000,3+1,72,1,E,2,1,True,False,True,False,49.193018,16.645175,Rent,1,1,1,0,0,0,1,0,0,1,0,1,0
+Brno,Město Brno,20000,4+kk,100,1,D,2,1,False,True,False,False,49.198531,16.61041,Rent,1,1,0,1,1,1,1,1,0,1,1,0,0
+Brno,Chrlice,13000,1+1,37,2,F,2,4,True,False,False,False,49.129766,16.652625,Rent,1,0,1,0,0,1,0,0,1,0,0,0,2
+Brno,Lesná,9000,1+1,35,2,,1,8,True,False,True,False,49.2236217,16.6262301,Rent,1,1,0,1,0,0,0,0,1,0,0,0,2
+Brno,Slatina,10500,2+kk,46,1,B,2,2,True,False,False,False,49.1736154,16.6921808,Rent,0,1,1,0,0,0,1,1,1,0,0,1,0
+Brno,Komárov,11000,Garsoniéra,16,1,C,3,1,False,False,False,False,49.174125,16.623102,Rent,1,0,0,1,1,1,1,1,0,0,0,1,2
+Brno,Řečkovice,13500,2+1,70,2,,2,4,True,False,False,False,49.2457865,16.587221,Rent,1,1,0,0,1,0,0,0,0,1,0,1,0
+Brno,Starý Lískovec,12490,2+1,62,2,,1,1,True,False,False,False,49.1645087,16.5640904,Rent,0,1,1,0,0,0,1,1,0,1,1,0,1
+Brno,Veveří,13000,2+1,80,1,,1,1,True,False,False,False,49.2053616,16.5988866,Rent,1,1,1,1,1,1,0,0,0,0,1,1,2
+Brno,Trnitá,11100,1+kk,22,2,B,3,2,True,True,True,False,49.184512,16.623095,Rent,1,1,1,1,1,1,1,1,1,0,0,0,0
+Brno,Staré Brno,14900,2+kk,51,1,C,2,5,False,False,True,False,49.188253,16.606073,Rent,0,1,0,1,0,0,0,0,0,1,0,1,0
+Brno,Maloměřice,9800,2+kk,45,1,D,1,1,False,False,False,False,49.221132,16.643838,Rent,0,1,1,0,1,0,1,0,1,1,1,1,0
+Brno,Bystrc,11000,1+1,36,2,,3,3,True,False,False,False,49.2273895,16.5284902,Rent,0,0,0,0,1,1,1,1,0,0,1,1,0
+Brno,Veveří,10700,1+1,36,1,A,3,4,False,False,False,False,49.1998646,16.6055834,Rent,0,1,1,1,1,1,0,0,0,1,1,0,2
+Brno,Žabovřesky,11700,2+1,51,2,,2,1,True,False,False,False,49.2185524,16.5825272,Rent,0,1,0,1,1,0,0,1,0,1,1,0,0
+Brno,Soběšice,13000,2+kk,77,1,A,0,2,False,True,False,True,49.253683,16.621477,Rent,1,1,0,1,0,0,0,1,0,0,1,0,2
+Brno,Ponava,8700,1+1,26,1,D,1,1,False,False,False,False,49.210772,16.604498,Rent,1,1,0,1,1,0,1,0,0,0,1,0,0
+Brno,Město Brno,13500,1+kk,27,1,A,2,2,False,False,False,False,49.193456,16.608107,Rent,1,0,0,1,1,0,1,1,1,0,1,1,1
+Brno,Ponava,29800,4+kk,140,1,A,3,2,True,False,False,False,49.213911,16.602124,Rent,1,1,1,0,1,0,0,1,0,0,1,1,0
+Brno,Bystrc,8000,1+kk,27,0,G,2,0,False,False,False,False,49.220622,16.516894,Rent,1,1,1,1,1,1,1,1,1,1,0,1,2
+Brno,Ponava,20000,2+kk,66,1,B,2,1,False,True,True,True,49.212698,16.600795,Rent,1,0,0,1,1,0,1,1,0,0,0,0,2
+Brno,Město Brno,11000,2+1,62,0,G,2,1,False,False,True,False,49.197204,16.608755,Rent,1,1,0,1,1,0,1,1,1,0,1,0,1
+Brno,Jundrov,8000,Garsoniéra,26,1,B,2,1,False,False,False,False,49.20567,16.558593,Rent,0,1,1,0,0,1,0,0,1,1,0,1,2
+Brno,Staré Brno,18525,1+kk,35,0,,3,2,False,False,True,True,49.1893715,16.6004776,Rent,1,0,0,0,0,1,0,1,0,0,1,0,0
+Brno,Staré Brno,14000,3+kk,75,1,G,2,1,False,True,False,False,49.186947,16.598175,Rent,0,0,0,1,0,0,0,0,1,1,0,1,2
+Brno,Žebětín,9500,1+kk,32,1,B,3,2,False,False,True,False,49.21728,16.497659,Rent,1,1,0,1,1,0,1,1,1,0,1,1,0
+Brno,Královo Pole,16000,2+1,80,1,G,2,2,False,True,False,False,49.226514,16.584939,Rent,0,1,0,1,1,0,1,1,1,0,1,1,1
+Brno,Zábrdovice,11500,1+kk,31,1,B,2,1,False,True,True,False,49.201518,16.623509,Rent,0,1,0,0,1,1,0,0,0,1,1,1,1
+Brno,Staré Brno,17000,2+1,83,1,G,2,2,True,False,False,False,49.186704,16.59701,Rent,1,0,1,1,0,1,1,0,0,0,1,1,0
+Brno,Stránice,8500,2+1,55,1,B,3,2,True,False,False,False,49.198989,16.574957,Rent,1,0,0,0,0,1,0,0,1,1,1,0,2
+Brno,Veveří,9700,1+1,19,1,D,3,2,True,False,False,False,49.199631,16.589125,Rent,1,0,1,1,0,1,0,1,1,1,1,0,1
+Brno,Zábrdovice,11000,2+kk,39,1,A,2,1,False,False,False,False,49.198804,16.621881,Rent,0,0,0,0,1,1,1,1,1,0,1,0,2
+Brno,Trnitá,10000,1+kk,22,1,A,2,7,False,True,True,False,49.192179,16.617399,Rent,1,0,0,0,0,0,1,0,1,0,1,1,2
+Brno,Černá Pole,9250,1+kk,25,1,,2,1,False,False,False,False,49.214898,16.6247094,Rent,0,0,0,0,1,0,0,1,1,1,0,1,1
+Brno,Žabovřesky,12000,2+1,70,1,G,2,1,False,False,False,False,49.2114,16.583048,Rent,0,0,0,1,0,0,1,0,1,0,0,0,2
+Brno,Veveří,15000,2+kk,56,1,,2,7,False,False,True,False,49.2078046,16.6016642,Rent,1,1,1,0,0,0,1,1,0,0,0,1,1
+Brno,Zábrdovice,12000,2+kk,66,1,C,2,0,False,True,False,False,49.199602,16.619244,Rent,1,1,1,0,0,0,0,1,0,1,1,0,1
+Brno,Staré Brno,15500,2+kk,59,0,A,3,1,False,False,True,True,49.189868,16.605846,Rent,0,0,0,1,1,1,1,1,1,0,1,1,0
+Brno,Pisárky,19553,1+kk,0,0,,3,3,False,False,True,False,49.1926173,16.5633806,Rent,1,0,0,0,0,0,1,0,1,1,0,1,2
+Brno,Pisárky,10000,1+kk,32,1,G,2,-1,False,False,False,False,49.193558,16.579916,Rent,0,0,1,1,0,1,0,1,1,0,1,0,1
+Brno,Zábrdovice,10500,1+kk,31,1,B,3,4,True,False,True,False,49.201429,16.623347,Rent,0,0,0,0,1,0,0,0,0,0,0,0,0
+Brno,Štýřice,18750,2+kk,43,0,,3,2,True,False,False,False,49.1822352,16.6006902,Rent,1,1,0,1,1,1,0,1,0,0,1,0,2
+Brno,Bohunice,10000,2+kk,48,2,C,3,7,True,False,True,False,49.167809,16.585943,Rent,0,1,1,0,1,1,0,0,1,0,1,1,2
+Brno,Chrlice,17000,3+kk,79,1,G,3,1,True,False,False,True,49.129539,16.650737,Rent,1,1,1,1,1,1,1,0,0,1,1,1,1
+Brno,Nový Lískovec,17900,3+1,72,2,A,2,1,True,False,True,False,49.1765683,16.553012,Rent,0,0,0,0,1,0,1,1,0,0,1,1,0
+Brno,Ponava,14500,2+1,78,1,,2,5,True,False,True,False,49.209535,16.605645,Rent,0,1,0,1,0,1,1,0,0,1,0,0,0
+Brno,Trnitá,8500,1+kk,24,1,,1,2,False,False,False,False,49.1927247,16.6181453,Rent,1,1,1,0,1,0,1,0,0,1,0,1,0
+Brno,Staré Brno,16875,1+kk,35,0,,3,8,False,False,True,False,49.186895,16.5866808,Rent,0,1,1,1,0,1,0,1,0,0,0,1,2
+Brno,Bystrc,14000,3+1,75,2,E,2,5,True,False,True,False,49.229999,16.516656,Rent,0,1,1,0,1,1,0,0,0,1,1,0,2
+Brno,Starý Lískovec,14000,3+1,75,2,G,0,1,True,False,True,False,49.167354,16.565267,Rent,0,0,0,1,1,1,1,0,0,1,1,1,0
+Brno,Veveří,13000,2+1,73,1,A,2,2,False,False,True,False,49.201394,16.605577,Rent,0,0,0,1,1,0,1,0,0,0,1,0,2
+Brno,Žabovřesky,8900,1+kk,34,1,F,3,-1,False,True,False,False,49.209095,16.587288,Rent,1,1,1,0,1,0,1,1,0,1,1,0,0
+Brno,Slatina,9500,1+1,40,2,G,1,2,False,False,False,False,49.180981,16.684761,Rent,1,0,0,0,1,0,1,0,1,0,1,0,1
+Brno,Lesná,8500,1+1,26,2,G,2,2,False,False,True,False,49.232856,16.629215,Rent,0,1,1,1,0,1,1,1,0,1,1,0,1
+Brno,Zábrdovice,8300,1+kk,35,1,F,3,4,False,False,False,False,49.198929,16.618198,Rent,1,0,1,0,0,1,0,1,0,0,0,0,2
+Brno,Město Brno,16800,2+kk,55,1,G,0,5,False,False,True,False,49.195912,16.609063,Rent,0,0,0,0,1,1,0,0,0,0,0,1,0
+Brno,Řečkovice,13500,2+1,75,1,G,1,2,True,False,False,False,49.242061,16.584633,Rent,1,1,1,0,1,1,0,0,0,1,0,1,1
+Brno,Líšeň,8500,1+1,35,1,C,3,1,False,False,False,False,49.2074568,16.6868142,Rent,0,0,0,0,0,1,1,1,0,0,0,1,2
+Brno,Královo Pole,9500,1+1,39,1,D,1,1,False,False,False,False,49.223746,16.596901,Rent,1,0,0,0,0,1,0,0,0,0,1,1,2
+Brno,Slatina,15000,2+kk,63,1,,3,4,True,False,True,False,49.178338,16.680526,Rent,0,0,1,1,0,1,0,1,0,0,0,1,1
+Brno,Židenice,12000,2+kk,40,1,G,3,0,False,False,False,False,49.194664,16.637055,Rent,1,1,0,0,0,1,0,0,1,0,0,1,2
+Brno,Staré Brno,9900,1+1,24,1,D,3,2,False,False,False,False,49.188793,16.596324,Rent,0,0,0,0,0,1,1,1,0,0,1,1,2
+Brno,Štýřice,8500,1+kk,27,1,G,2,1,False,False,False,False,49.180675,16.596832,Rent,0,1,1,0,0,0,1,1,1,0,0,0,2
+Brno,Obřany,12800,2+kk,70,1,,2,1,False,False,False,False,49.2365618,16.6427999,Rent,1,1,1,1,1,0,1,0,1,1,0,0,0
+Brno,Trnitá,8800,1+kk,32,1,A,0,2,False,False,True,False,49.192674,16.618035,Rent,0,0,0,0,1,0,1,1,0,1,1,1,0
+Brno,Staré Brno,15000,2+kk,51,1,B,2,4,True,False,True,False,49.189118,16.588927,Rent,0,0,0,0,1,0,1,1,1,1,1,1,0
+Brno,Židenice,16000,2+kk,66,1,B,2,2,True,False,True,True,49.196952,16.6594,Rent,1,0,0,0,0,0,1,1,1,0,1,1,2
+Brno,Starý Lískovec,13500,3+1,67,2,C,0,5,False,False,True,False,49.172253,16.5643,Rent,1,0,1,0,0,0,1,0,1,0,0,0,2
+Brno,Zábrdovice,9800,1+kk,25,1,G,3,2,True,False,True,False,49.201631,16.623343,Rent,1,1,0,0,0,1,0,0,1,0,0,0,2
+Brno,Město Brno,18000,2+1,59,1,,3,5,False,False,True,False,49.194575868256,16.608235434005,Rent,1,1,1,1,0,1,0,1,1,1,1,0,0
+Brno,Bystrc,15000,2+kk,61,1,C,2,1,False,False,True,False,49.216775,16.49989,Rent,1,0,0,1,1,1,1,1,1,1,1,1,1
+Brno,Trnitá,13900,2+kk,58,1,C,3,5,True,False,True,False,49.190449,16.626698,Rent,0,1,0,1,0,0,1,1,0,1,0,1,2
+Brno,Bystrc,13500,2+1,60,2,G,3,8,True,False,True,False,49.215766,16.51914,Rent,0,0,1,1,1,0,1,1,1,1,0,0,2
+Brno,Žabovřesky,14900,2+kk,53,3,B,2,3,True,False,True,False,49.215346,16.570457,Rent,1,0,0,0,0,0,1,0,0,0,1,1,2
+Brno,Město Brno,19238,1+kk,55,0,,3,3,False,False,True,False,49.1956101,16.6095012,Rent,1,0,0,1,0,0,1,1,0,0,0,1,2
+Brno,Štýřice,18900,3+1,78,2,G,2,8,True,False,True,False,49.177688,16.593881,Rent,0,0,0,1,1,0,1,0,1,0,1,1,2
+Brno,Židenice,9300,1+kk,27,1,B,1,4,True,False,False,False,49.198377,16.64544,Rent,1,1,0,0,0,1,1,1,1,1,0,1,0
+Brno,Nový Lískovec,9200,1+1,41,1,,3,1,False,False,False,False,49.1842813,16.5637747,Rent,0,0,1,0,0,1,0,0,1,0,0,0,0
+Brno,Štýřice,13750,2+kk,54,1,B,3,5,False,True,True,True,49.183636,16.594774,Rent,0,1,1,0,0,0,0,1,1,0,0,0,2
+Brno,Žabovřesky,12900,2+kk,46,1,G,2,2,False,False,True,False,49.212151,16.590403,Rent,1,0,1,1,1,0,1,1,0,1,0,0,1
+Brno,Židenice,9400,1+1,29,1,G,1,1,False,False,False,False,49.191528,16.636373,Rent,1,0,0,0,1,1,0,0,1,1,0,0,1
+Brno,Veveří,10800,2+1,52,1,G,0,2,True,False,False,False,49.199179,16.591121,Rent,1,0,0,0,0,1,0,0,1,0,0,1,0
+Brno,Židenice,9300,1+1,35,1,G,1,1,False,False,False,False,49.197347,16.640501,Rent,1,0,0,0,0,1,0,0,0,0,0,0,2
+Brno,Řečkovice,8500,1+kk,33,1,C,1,1,False,True,False,False,49.2439721,16.581744,Rent,0,0,0,1,1,0,1,0,1,1,1,0,0
+Brno,Staré Brno,15750,1+kk,0,0,,3,3,False,False,False,False,49.1924294,16.6044458,Rent,1,0,0,0,1,1,0,0,1,1,1,1,0
+Brno,Zábrdovice,12000,1+kk,35,1,,3,3,False,False,False,False,49.1989741,16.6235737,Rent,0,1,0,0,0,1,1,0,1,0,1,1,2
+Brno,Staré Brno,10000,1+kk,40,1,B,3,6,False,False,False,False,49.186895,16.5866808,Rent,0,0,1,0,0,0,1,0,0,0,0,0,1
+Brno,Slatina,11500,1+kk,46,1,B,2,1,True,False,True,False,49.171665,16.686296,Rent,0,1,0,0,0,1,0,0,0,0,1,0,1
+Brno,Staré Brno,10000,Garsoniéra,30,1,D,0,3,False,False,False,False,49.192368,16.603573,Rent,0,0,1,0,1,0,1,0,0,1,0,1,0
+Brno,Zábrdovice,9375,1+kk,24,0,,3,4,False,False,True,False,49.2000707,16.6257772,Rent,1,0,1,1,1,0,1,0,1,1,1,0,0
+Brno,Maloměřice,10000,2+kk,47,1,C,2,1,False,False,False,False,49.217689,16.643212,Rent,1,1,1,1,1,1,1,1,1,0,1,1,1
+Brno,Kohoutovice,12900,2+1,56,2,,3,4,True,False,False,False,49.2005894,16.5338853,Rent,0,1,0,1,1,1,1,0,1,0,0,0,1
+Brno,Žabovřesky,13000,2+kk,40,1,B,3,2,True,False,False,False,49.216337,16.570846,Rent,0,0,0,0,0,1,1,1,1,1,0,1,1
+Brno,Černá Pole,17500,2+kk,59,1,G,3,2,False,False,True,False,49.204847,16.622033,Rent,0,1,1,0,1,0,0,0,1,0,1,1,1
+Brno,Bystrc,13000,2+kk,61,1,G,2,4,True,False,True,False,49.215545,16.496552,Rent,1,0,1,0,1,1,0,0,0,0,0,0,1
+Brno,Veveří,14000,3+1,85,1,C,2,3,True,False,True,False,49.2057346,16.5991522,Rent,1,0,1,0,0,0,0,1,1,0,0,1,2
+Brno,Žabovřesky,9000,Garsoniéra,30,2,,2,6,False,False,False,False,49.2205689,16.5721603,Rent,1,1,1,0,0,0,1,0,1,1,0,1,0
+Brno,Trnitá,10000,1+kk,22,0,B,0,5,False,True,True,False,49.184512,16.623095,Rent,0,1,1,0,1,0,1,1,0,1,0,1,1
+Brno,Staré Brno,14000,2+kk,50,1,G,1,1,True,False,True,False,49.18776,16.595186,Rent,1,1,0,0,0,1,1,1,1,0,1,0,1
+Brno,Zábrdovice,6500,1+1,28,1,,2,0,False,False,False,False,49.2062416,16.6254195,Rent,0,0,0,1,1,0,0,1,0,1,0,0,0
+Brno,Židenice,13000,2+kk,40,2,G,1,1,False,False,True,False,49.202382,16.662515,Rent,0,0,1,0,1,1,0,0,0,0,0,0,1
+Brno,Město Brno,9000,2+kk,40,1,C,3,2,False,True,False,False,49.198531,16.61041,Rent,0,0,0,1,0,0,1,0,0,0,1,0,1
+Brno,Bohunice,11000,2+kk,47,2,E,2,2,False,False,True,False,49.170751,16.573376,Rent,1,1,1,0,0,1,0,1,0,1,0,0,2
+Brno,Staré Brno,11985,1+kk,35,0,,3,6,True,False,True,False,49.186895,16.5866808,Rent,1,1,1,1,1,0,0,1,1,0,0,1,1
+Brno,Štýřice,13000,2+1,50,1,A,0,1,True,False,False,False,49.182259,16.595089,Rent,0,0,0,1,1,0,0,1,0,0,0,1,0
+Brno,Město Brno,15000,3+1,95,1,,2,4,False,False,False,False,49.1950602,16.6068371,Rent,0,0,1,0,1,0,1,1,1,1,1,0,1
+Brno,Jundrov,11000,2+1,56,2,A,3,7,True,False,True,True,49.204666,16.55533,Rent,1,0,0,1,1,0,1,1,0,0,1,0,2
+Brno,Židenice,9300,1+1,34,1,G,2,4,False,False,False,False,49.196993,16.639351,Rent,1,0,1,1,1,0,1,0,0,0,0,0,0
+Brno,Bystrc,11000,1+1,40,2,,2,5,False,False,False,False,49.2179961,16.504386,Rent,0,1,1,1,1,1,1,0,1,0,1,0,2
+Brno,Bohunice,19000,2+kk,64,1,B,2,2,False,True,False,False,49.180957248061,16.568570048688,Rent,0,0,0,0,1,1,0,1,1,1,1,0,2
+Brno,Zábrdovice,13850,2+kk,58,1,C,2,2,False,False,False,False,49.2023104,16.6227176,Rent,0,1,0,0,0,1,1,1,1,1,1,1,1
+Brno,Bohunice,13000,3+1,72,2,G,2,2,True,False,True,False,49.16791,16.576652,Rent,0,1,0,0,0,1,0,0,1,0,0,0,1
+Brno,Trnitá,14000,1+kk,30,1,,3,3,True,True,False,False,49.191508,16.6199139,Rent,1,1,0,0,1,1,1,0,0,1,1,1,1
+Brno,Zábrdovice,8500,1+kk,33,1,G,3,4,False,False,True,False,49.202382,16.625568,Rent,1,0,1,0,1,1,0,1,1,0,0,0,1
+Brno,Veveří,13000,3+kk,80,1,G,3,2,False,False,True,False,49.207891,16.6013,Rent,0,0,1,1,0,1,0,0,0,0,0,1,0
+Brno,Ponava,17500,3+kk,57,3,B,2,3,False,False,False,False,49.2158388,16.6012197,Rent,1,0,1,1,1,0,1,1,0,1,0,0,0
+Brno,Černovice,10000,1+1,35,1,F,3,0,False,False,False,False,49.186831,16.642081,Rent,0,0,1,1,1,0,1,1,1,0,0,0,0
+Brno,Královo Pole,12000,1+1,60,1,C,0,1,False,False,False,False,49.219965,16.59561,Rent,1,0,1,1,0,1,1,0,0,1,0,1,2
+Brno,Černá Pole,11000,2+1,52,1,C,3,3,False,False,True,False,49.203689,16.620684,Rent,1,0,1,0,1,1,0,0,0,1,0,1,0
+Brno,Komín,12000,1+kk,45,3,A,3,1,False,True,False,False,49.222739,16.55627,Rent,1,0,1,0,1,1,1,1,0,0,0,0,2
+Brno,Veveří,20818,3+kk,85,1,G,2,3,True,False,True,False,49.201533,16.605996,Rent,1,0,0,1,0,0,1,1,1,0,1,0,2
+Brno,Židenice,14000,2+1,52,1,G,2,1,True,False,False,False,49.193474,16.654854,Rent,0,0,1,0,1,0,1,1,0,0,1,1,2
+Brno,Královo Pole,14000,2+kk,53,1,C,3,1,True,False,False,True,49.2286554,16.6041221,Rent,1,1,1,0,0,0,0,0,1,1,0,1,2
+Brno,Královo Pole,19500,2+kk,58,0,,3,2,True,False,True,True,49.2212691,16.5852463,Rent,0,1,1,1,1,0,1,0,0,0,1,0,2
+Brno,Štýřice,18750,1+kk,0,0,,3,6,False,False,True,True,49.1834133,16.5953083,Rent,0,1,0,1,0,1,0,0,0,1,1,0,0
+Brno,Horní Heršpice,12285,1+kk,41,0,,3,2,True,True,False,False,49.1651278,16.611152,Rent,0,1,1,1,1,1,1,1,0,1,1,0,0
+Brno,Líšeň,9263,1+kk,30,0,,3,3,True,False,True,False,49.1982928,16.6665336,Rent,0,1,1,0,0,0,1,1,0,1,1,1,2
+Brno,Nový Lískovec,6800,1+kk,32,0,B,3,2,False,False,False,False,49.181775,16.561731,Rent,0,0,1,0,0,1,0,0,1,1,0,1,0
+Brno,Medlánky,9500,1+kk,28,3,B,3,0,False,False,False,False,49.2391211,16.5723259,Rent,0,0,0,0,0,0,0,0,0,1,1,1,1
+Brno,Veveří,15000,2+1,62,1,B,0,2,True,False,True,False,49.201236,16.598723,Rent,0,0,1,1,1,1,1,0,0,1,0,0,0
+Brno,Trnitá,10000,1+kk,24,3,A,2,2,False,False,False,False,49.191462,16.616904,Rent,1,0,1,0,0,1,1,0,1,0,0,1,2
+Brno,Stránice,13500,2+kk,50,1,,2,0,False,False,False,False,49.2001774,16.5789101,Rent,0,0,0,1,1,0,1,1,1,0,0,0,2
+Brno,Královo Pole,10400,1+1,45,1,,3,2,False,False,False,False,49.2271183,16.5905183,Rent,1,1,0,0,1,0,0,0,0,0,0,0,1
+Brno,Husovice,13000,2+kk,52,1,C,3,2,True,False,False,False,49.2144262,16.6379903,Rent,1,0,0,1,0,0,0,0,1,1,0,0,2
+Brno,Královo Pole,12500,2+1,56,1,B,3,1,False,False,False,False,49.2231615,16.5868266,Rent,0,1,1,1,1,0,0,1,1,1,1,1,2
+Brno,Zábrdovice,10400,1+kk,25,1,C,0,3,False,False,True,False,49.19528,16.617736,Rent,1,0,1,1,1,0,1,0,0,0,1,1,2
+Brno,Veveří,11200,1+1,20,1,C,3,3,True,True,False,False,49.199631,16.589125,Rent,1,0,0,1,0,0,0,0,1,1,0,1,0
+Brno,Černovice,14000,3+1,105,1,,1,2,False,True,False,False,49.187067,16.638855,Rent,0,0,1,1,0,1,1,1,0,1,0,0,2
+Brno,Město Brno,11500,2+kk,49,2,D,2,0,False,False,False,False,49.198531,16.61041,Rent,1,0,1,0,1,1,0,1,1,0,1,1,0
+Brno,Zábrdovice,13900,2+kk,85,1,,2,7,False,False,True,False,49.2000693,16.6136334,Rent,1,0,0,0,1,0,0,0,0,1,0,0,0
+Brno,Židenice,12000,2+kk,44,1,C,1,2,False,True,False,False,49.1983942,16.6511359,Rent,0,1,0,0,1,0,0,1,1,1,0,0,1
+Brno,Bohunice,13100,2+1,56,2,,3,1,True,False,False,False,49.1671666,16.5831516,Rent,1,1,1,0,1,1,1,1,1,0,0,0,0
+Brno,Řečkovice,12000,2+kk,56,3,C,2,4,False,False,False,False,49.2412231,16.5861749,Rent,1,1,1,0,1,1,1,1,1,0,1,0,0
+Brno,Židenice,11000,1+kk,33,0,G,2,1,False,False,False,False,49.204397,16.657421,Rent,0,0,0,0,0,1,0,1,1,0,0,0,2
+Brno,Slatina,16400,3+kk,68,1,B,3,5,True,True,True,True,49.178338,16.6805261,Rent,0,0,1,1,1,1,0,1,1,0,1,1,2
+Brno,Lesná,11500,2+1,60,2,C,2,6,True,False,True,False,49.225414,16.626481,Rent,0,0,0,0,1,0,0,0,1,0,0,0,0
+Brno,Pisárky,18675,1+kk,0,0,,3,4,False,False,True,False,49.1926173,16.5633806,Rent,0,0,0,1,0,0,1,0,1,0,0,0,2
+Brno,Město Brno,12500,1+kk,30,1,A,3,3,False,False,False,False,49.198531,16.61041,Rent,1,1,0,1,1,0,1,0,1,0,1,1,0
+Brno,Komín,13800,2+1,52,1,B,2,2,False,False,False,False,49.219433,16.542629,Rent,1,0,0,0,0,0,1,1,1,1,1,0,1
+Brno,Jundrov,12000,3+1,76,2,C,2,1,True,False,True,False,49.205368,16.55392,Rent,1,1,0,1,0,0,1,0,0,0,1,0,2
+Brno,Řečkovice,14000,2+kk,69,1,,2,3,False,False,False,False,49.2434715,16.5800392,Rent,0,0,0,1,0,1,0,1,0,0,1,0,0
+Brno,Stránice,20000,3+kk,78,1,G,0,2,True,False,False,False,49.200757,16.58334,Rent,1,1,0,0,0,0,1,0,1,1,0,1,2
+Brno,Žebětín,17000,3+kk,66,1,A,0,4,True,False,True,False,49.219061443387,16.49560654736,Rent,0,1,1,1,0,0,1,0,1,1,0,1,1
+Brno,Stránice,8500,2+1,66,1,G,3,1,True,False,False,False,49.200498,16.579143,Rent,1,1,1,0,1,1,0,1,1,1,1,0,1
+Brno,Černá Pole,12850,2+kk,67,1,C,2,3,True,False,False,False,49.215295,16.626163,Rent,0,1,0,1,0,1,0,1,1,1,0,1,1
+Brno,Zábrdovice,15000,3+kk,110,1,C,1,5,False,False,True,False,49.1980928,16.6189889,Rent,0,0,0,1,0,1,1,1,0,0,0,1,1
+Brno,Štýřice,18375,2+kk,50,0,,3,1,False,True,False,False,49.183649,16.5956969,Rent,0,1,0,1,0,0,1,0,0,0,1,0,1
+Brno,Maloměřice,16000,3+1,90,1,G,2,2,False,True,False,False,49.208764,16.63689,Rent,0,0,1,0,1,1,1,0,1,0,1,1,1
+Brno,Staré Brno,9300,1+kk,34,1,,2,3,True,False,False,False,49.1935820443,16.5956640244,Rent,0,0,1,1,0,0,0,1,0,0,0,0,0
+Brno,Bohunice,9200,1+kk,24,1,B,2,1,False,True,False,False,49.167555,16.579169,Rent,0,1,0,1,0,0,1,0,1,1,1,0,0
+Brno,Trnitá,13000,1+kk,33,2,B,3,2,False,True,True,False,49.184512,16.623095,Rent,1,0,1,0,0,0,0,1,1,1,0,1,0
+Brno,Černovice,10000,1+1,56,1,,2,1,True,False,False,False,49.1909353,16.6297317,Rent,1,0,1,1,1,0,1,0,1,1,0,1,2
+Brno,Zábrdovice,10500,Garsoniéra,20,0,G,3,4,False,False,False,False,49.198929,16.618198,Rent,0,0,1,0,0,0,0,0,0,1,1,1,1
+Brno,Slatina,9000,1+kk,29,1,B,1,1,True,False,False,False,49.171773,16.689581,Rent,1,0,0,0,1,1,1,1,1,1,1,0,0
+Brno,Zábrdovice,10800,1+kk,22,0,,3,5,False,False,True,False,49.1952801,16.6177389,Rent,1,0,1,0,1,0,0,0,0,1,0,0,2
+Brno,Staré Brno,16000,2+kk,63,1,A,3,3,True,True,True,False,49.1899108,16.6025369,Rent,0,0,1,1,1,0,1,0,1,0,1,1,1
+Brno,Obřany,14500,3+kk,72,1,,2,1,False,False,False,False,49.2289698652,16.6489921111,Rent,0,0,0,1,0,0,0,0,1,1,0,1,1
+Brno,Zábrdovice,7900,1+kk,24,1,G,2,3,False,False,False,False,49.19742,16.624124,Rent,1,1,0,0,1,1,0,0,1,1,0,0,2
+Brno,Zábrdovice,16500,1+1,52,0,,3,2,False,False,True,True,49.1988792,16.6216856,Rent,0,0,0,1,0,0,1,1,1,0,1,1,2
+Brno,Štýřice,26250,2+kk,0,0,,3,6,False,False,True,True,49.1834133,16.5953083,Rent,0,1,0,0,0,1,1,0,0,0,0,1,1
+Brno,Medlánky,12900,2+kk,49,1,C,2,1,False,False,True,False,49.2454624,16.5732889,Rent,0,0,0,0,1,0,0,1,0,0,0,1,0
+Brno,Štýřice,11000,1+kk,30,1,,2,2,False,False,True,False,49.1847061,16.5949664,Rent,0,0,1,0,1,0,1,0,1,1,0,0,0
+Brno,Bohunice,12000,2+kk,50,2,G,3,6,True,False,True,False,49.1688,16.585951,Rent,0,1,1,0,1,0,1,0,1,0,1,0,1
+Brno,Bystrc,11700,1+1,42,2,C,3,3,True,False,True,False,49.219706,16.510529,Rent,1,1,0,1,1,1,1,0,1,0,0,0,2
+Brno,Medlánky,11000,1+kk,40,1,B,2,2,False,False,True,False,49.243329,16.57228,Rent,1,1,0,0,0,0,0,1,0,0,1,1,0
+Brno,Zábrdovice,15000,2+kk,72,1,G,0,1,False,False,False,False,49.1973,16.624847,Rent,0,0,1,0,0,1,1,0,0,0,0,0,2
+Brno,Starý Lískovec,10500,2+kk,35,1,A,3,2,False,False,False,False,49.162465,16.563796,Rent,1,1,0,0,1,0,1,1,0,1,0,1,2
+Brno,Černá Pole,8500,1+kk,23,1,E,3,1,False,False,False,False,49.2153686,16.626639,Rent,0,1,0,0,1,1,1,1,1,1,0,1,2
+Brno,Dolní Heršpice,9800,1+1,35,1,,2,0,False,False,False,False,49.1521923,16.6234973,Rent,1,1,1,0,1,0,1,0,1,1,1,0,1
+Brno,Židenice,16500,3+kk,85,0,,3,3,False,False,False,False,49.196280209748,16.647406749738,Rent,0,1,1,1,0,0,1,1,1,0,0,0,1
+Brno,Žabovřesky,16000,3+1,75,2,G,2,1,True,False,False,False,49.217082,16.574747,Rent,0,0,0,0,0,0,1,1,0,1,0,1,0
+Brno,Město Brno,14000,2+kk,44,1,A,3,1,False,True,False,False,49.198531,16.61041,Rent,0,0,0,0,0,1,0,1,0,0,1,1,1
+Brno,Trnitá,14175,1+kk,45,0,,3,-1,False,False,False,False,49.1891961,16.6232322,Rent,1,0,1,0,1,1,0,1,0,1,1,1,0
+Brno,Černovice,12500,2+kk,50,1,,2,3,True,False,False,False,49.1781473,16.6438173,Rent,1,1,1,0,0,1,0,1,1,1,1,1,0
+Brno,Město Brno,25000,3+1,112,1,C,3,1,True,False,False,False,49.198531,16.61041,Rent,1,1,0,1,0,0,0,0,1,0,1,0,0
+Brno,Žabovřesky,11800,1+kk,20,2,G,3,1,False,False,False,False,49.220672,16.569273,Rent,1,1,1,1,0,0,1,0,1,1,1,0,2
+Brno,Královo Pole,12800,1+1,48,1,E,0,1,True,False,False,False,49.225403,16.586992,Rent,0,1,1,1,1,1,1,1,1,1,1,1,2
+Brno,Husovice,7500,1+kk,22,1,B,3,2,False,False,False,False,49.2105,16.631038,Rent,1,1,1,1,0,1,1,0,1,1,1,1,0
+Brno,Žebětín,12500,2+kk,54,1,,1,1,False,False,True,False,49.219661,16.495168,Rent,0,1,0,1,1,1,0,0,0,1,0,1,2
+Brno,Město Brno,10000,1+kk,54,1,D,0,2,False,False,True,False,49.19561,16.609498,Rent,0,0,0,1,1,0,0,1,0,1,0,1,1
+Brno,Bystrc,10500,1+1,40,2,,1,6,True,False,True,False,49.217952,16.5018147,Rent,0,0,0,0,1,0,0,1,1,0,0,1,1
+Brno,Staré Brno,22900,3+kk,64,1,A,0,4,True,False,True,True,49.187556,16.589456,Rent,1,1,1,0,1,1,0,0,1,0,1,0,0
+Brno,Líšeň,6400,1+kk,32,2,G,2,1,False,False,True,False,49.211457,16.678646,Rent,0,0,0,1,1,0,1,1,0,1,0,0,2
+Brno,Královo Pole,16500,3+kk,98,1,D,2,2,False,False,False,False,49.229257,16.603378,Rent,0,1,0,1,1,0,0,0,1,0,1,1,2
+Brno,Lesná,14500,3+1,76,2,B,2,1,True,False,False,False,49.229923,16.632392,Rent,0,0,0,0,0,1,0,0,1,1,1,0,1
+Brno,Lesná,9000,1+kk,26,2,B,3,8,False,False,True,False,49.223622,16.626226,Rent,0,0,1,0,1,1,1,0,1,0,1,1,1
+Brno,Veveří,12750,1+kk,32,0,,3,4,False,False,False,False,49.1999043,16.6012561,Rent,0,1,0,0,0,1,0,0,0,0,1,0,0
+Brno,Horní Heršpice,12000,2+kk,41,1,,2,1,False,True,False,False,49.1651771,16.6115121,Rent,1,1,1,0,1,0,0,0,0,0,0,0,2
+Brno,Ponava,22000,4+kk,88,1,G,1,4,False,False,False,False,49.216972,16.599149,Rent,0,0,0,1,0,1,0,1,1,0,0,0,1
+Brno,Město Brno,33000,3+kk,122,1,C,3,3,False,True,False,False,49.198531,16.61041,Rent,0,0,1,1,0,1,1,0,0,0,1,0,1
+Brno,Štýřice,11000,1+kk,33,1,B,3,3,False,False,True,False,49.178861,16.59617,Rent,0,1,1,0,0,1,1,1,1,0,1,0,1
+Brno,Chrlice,10500,1+1,36,3,B,3,2,False,False,False,False,49.1305052,16.6581693,Rent,0,1,0,0,0,1,0,0,0,0,1,0,2
+Brno,Zábrdovice,11500,2+1,55,1,,1,4,False,False,False,False,49.2001587,16.6162625,Rent,1,0,1,1,0,0,1,0,1,1,1,1,0
+Brno,Slatina,17500,4+1,87,2,E,3,1,True,False,True,False,49.180876,16.684926,Rent,0,1,0,0,1,1,0,0,0,0,0,0,2
+Brno,Bystrc,13500,1+1,40,2,D,2,2,False,False,False,False,49.219482,16.517339,Rent,0,1,0,1,1,0,1,0,1,0,1,0,0
+Brno,Trnitá,6500,Garsoniéra,16,1,G,3,1,False,True,False,False,49.190093,16.620141,Rent,1,0,0,1,1,0,0,1,1,0,0,0,1
+Brno,Kohoutovice,11990,1+1,38,2,G,3,5,True,False,True,False,49.193257,16.536804,Rent,0,0,0,0,0,0,1,1,1,1,1,1,1
+Brno,Královo Pole,14610,2+1,65,1,C,2,1,True,False,False,False,49.2231049,16.5838413,Rent,0,1,0,0,0,1,1,0,1,0,1,0,0
+Brno,Židenice,10000,1+kk,42,1,A,2,2,False,False,True,False,49.200163,16.637807,Rent,1,0,1,1,0,1,0,0,0,0,1,0,2
+Brno,Zábrdovice,17500,2+kk,69,1,B,0,5,False,True,True,True,49.202113,16.620071,Rent,0,1,0,1,0,0,1,0,1,1,0,1,0
+Brno,Líšeň,12490,2+kk,49,1,D,2,3,False,False,False,False,49.21399,16.684647,Rent,1,0,0,0,0,1,0,1,1,0,0,1,0
+Brno,Zábrdovice,12000,1+1,52,1,G,3,2,False,False,True,True,49.198915,16.621912,Rent,1,0,1,0,1,0,1,1,1,1,1,1,1
+Brno,Lesná,12000,2+1,60,2,G,2,6,True,False,True,False,49.225529,16.627841,Rent,1,0,0,0,1,1,1,1,1,1,1,0,0
+Brno,Zábrdovice,9500,1+kk,26,1,G,2,1,False,False,False,False,49.202079,16.61858,Rent,1,0,0,1,1,0,0,0,1,0,1,0,0
+Brno,Židenice,9500,1+kk,29,1,G,2,5,False,False,False,False,49.196993,16.639351,Rent,1,0,0,0,0,0,1,0,1,0,1,1,1
+Brno,Trnitá,13500,2+kk,65,1,G,3,4,False,False,False,False,49.1938722,16.6242264,Rent,0,1,1,1,0,0,0,0,0,1,1,0,0
+Brno,Veveří,13500,2+1,74,1,,3,3,False,False,False,False,49.2007647,16.6058647,Rent,1,0,1,0,0,0,1,1,1,0,1,0,2
+Brno,Zábrdovice,9200,1+kk,28,1,D,3,2,False,False,True,False,49.2021575,16.6245212,Rent,0,1,0,0,1,0,0,1,0,1,1,1,1
+Brno,Město Brno,28000,3+kk,120,0,,3,5,False,False,False,False,49.1961298,16.6093792,Rent,1,0,0,0,0,1,1,0,0,0,1,1,0
+Brno,Chrlice,15000,2+1,90,1,F,3,0,False,True,False,False,49.132007,16.661624,Rent,1,1,1,1,0,0,1,1,0,1,1,1,0
+Brno,Veveří,15000,2+1,35,1,A,3,2,False,False,True,False,49.200968,16.604083,Rent,1,0,1,1,1,0,0,0,0,0,0,1,2
+Brno,Lesná,13000,3+1,75,2,C,2,6,True,False,True,False,49.22948,16.618777,Rent,1,0,0,0,1,0,1,0,0,1,1,1,1
+Brno,Řečkovice,12500,2+kk,57,1,C,0,2,False,False,False,False,49.249124,16.581772,Rent,1,0,0,0,1,0,0,1,1,1,0,1,2
+Brno,Ponava,16000,2+kk,45,1,G,3,1,False,False,False,False,49.211701,16.603903,Rent,0,0,0,0,0,0,1,0,0,1,1,0,0
+Brno,Komín,11000,1+kk,30,1,,3,1,False,False,False,False,49.2211003,16.5525416,Rent,0,0,1,1,1,1,1,1,0,1,1,0,0
+Brno,Zábrdovice,9000,1+1,36,1,C,2,2,False,False,False,False,49.199602,16.619244,Rent,1,0,0,0,1,1,1,1,1,1,1,1,0
+Brno,Bystrc,12000,2+1,45,2,,3,3,True,False,True,False,49.2187014,16.5010156,Rent,0,1,0,1,0,0,0,1,1,0,0,0,1
+Brno,Židenice,13000,1+1,45,2,G,3,1,False,False,True,False,49.2027,16.640855,Rent,0,0,0,0,1,0,1,0,0,1,0,1,2
+Brno,Pisárky,20000,3+1,140,1,G,0,1,False,False,False,False,49.194067,16.580077,Rent,1,0,0,1,0,0,0,1,1,0,0,0,1
+Brno,Bystrc,7000,1+kk,28,2,A,2,3,True,False,True,False,49.217247,16.525427,Rent,1,1,0,1,1,1,0,1,1,1,0,1,1
+Brno,Starý Lískovec,16000,3+1,67,2,B,1,3,True,False,False,False,49.1706,16.567556,Rent,0,0,1,1,1,0,0,0,1,1,0,0,1
+Brno,Slatina,13500,2+kk,59,1,A,3,3,True,False,True,False,49.180137,16.672116,Rent,0,0,1,1,1,1,1,0,1,0,0,1,1
+Brno,Židenice,16500,2+1,66,1,C,3,3,True,True,False,False,49.192742,16.640645,Rent,1,0,1,1,1,1,1,0,1,0,0,1,0
+Brno,Černá Pole,8600,1+1,50,1,C,1,1,False,False,False,False,49.2139487,16.6232335,Rent,0,1,0,0,0,1,0,0,1,0,1,1,1
+Brno,Staré Brno,14025,2+kk,43,0,,3,5,True,False,True,False,49.1905416,16.5921522,Rent,0,0,1,0,1,1,0,0,1,0,0,1,2
+Brno,Staré Brno,11000,2+kk,44,1,C,2,1,False,False,False,False,49.185639,16.603792,Rent,1,1,0,1,1,1,0,1,0,0,0,1,2
+Brno,Dolní Heršpice,15000,2+kk,49,3,,2,4,True,False,False,False,49.1541372,16.6242048,Rent,1,0,0,1,0,0,1,0,0,1,1,0,1
+Brno,Město Brno,21019,2+kk,56,0,,3,3,False,False,True,False,49.1956101,16.6095012,Rent,0,0,1,1,0,0,1,0,1,1,0,1,2
+Brno,Zábrdovice,7000,Garsoniéra,12,1,,3,4,True,False,False,False,49.2013409,16.6152461,Rent,0,1,1,1,1,1,0,0,1,0,1,0,0
+Brno,Královo Pole,12000,2+kk,44,1,,3,3,True,False,False,False,49.2239888,16.5970126,Rent,1,1,0,0,0,0,0,0,0,0,1,1,0
+Brno,Trnitá,16500,1+kk,34,0,,3,2,False,False,True,False,49.1927247,16.6181453,Rent,0,1,0,1,0,0,0,1,1,0,1,0,1
+Brno,Žabovřesky,9000,Garsoniéra,28,2,G,2,5,False,False,True,False,49.214643,16.579196,Rent,0,0,1,1,1,1,0,0,0,0,1,1,0
+Brno,Židenice,15619,2+kk,63,0,,3,4,False,False,True,True,49.1909855,16.6597595,Rent,0,1,1,1,1,1,0,0,0,1,1,0,1
+Brno,Líšeň,11000,1+kk,32,2,C,0,4,False,False,False,False,49.2035961,16.683789,Rent,1,1,1,0,1,1,0,1,0,1,1,0,1
+Brno,Staré Brno,12000,1+1,40,1,C,0,4,False,False,False,False,49.192375,16.60438,Rent,0,0,0,0,1,0,1,0,1,1,1,0,1
+Brno,Staré Brno,13500,2+kk,43,1,G,3,1,False,False,True,False,49.192027,16.602245,Rent,1,0,1,1,0,0,1,1,0,1,0,0,0
+Brno,Líšeň,9500,1+kk,32,2,G,2,3,False,False,False,False,49.210102,16.690333,Rent,1,0,0,1,0,0,1,1,1,0,0,1,2
+Brno,Jundrov,18000,3+1,75,1,F,0,1,False,False,False,False,49.207982,16.550994,Rent,0,1,1,1,1,1,1,0,0,1,0,0,1
+Brno,Královo Pole,15400,2+kk,55,1,A,3,2,True,False,True,True,49.22307,16.599794,Rent,1,0,1,0,1,0,1,0,0,0,0,0,0
+Brno,Město Brno,13500,2+kk,40,1,G,0,2,False,False,True,False,49.195912,16.609063,Rent,1,0,0,1,1,1,0,1,1,0,1,0,2
+Brno,Trnitá,9000,1+kk,31,1,G,3,5,False,False,True,False,49.1906554,16.6195567,Rent,1,0,0,1,1,1,1,0,0,0,0,0,2
+Brno,Staré Brno,11500,1+kk,29,1,B,3,2,False,False,True,False,49.189868,16.605846,Rent,1,1,1,1,0,1,1,1,1,0,1,1,1
+Brno,Královo Pole,16500,3+kk,96,1,,3,5,False,True,True,False,49.222986,16.5914076,Rent,1,0,1,0,0,1,0,1,0,1,1,0,1
+Brno,Trnitá,10100,1+kk,35,1,G,0,1,True,False,True,False,49.190656,16.619554,Rent,1,1,0,0,0,1,0,1,1,0,1,0,0
+Brno,Komárov,10500,1+1,38,1,,1,0,False,False,False,False,49.176529,16.6194318,Rent,0,1,0,1,0,1,1,1,0,0,0,0,1
+Brno,Komárov,4450,Garsoniéra,27,1,A,3,1,False,True,False,False,49.1745843,16.6273417,Rent,0,0,1,0,1,0,0,1,1,1,1,0,2
+Brno,Řečkovice,8500,2+kk,35,2,G,1,7,False,False,True,False,49.242496,16.586597,Rent,1,0,0,1,1,0,0,0,0,0,0,1,1
+Brno,Černá Pole,11000,1+kk,27,1,C,0,5,True,False,True,False,49.210528,16.618888,Rent,1,1,0,1,0,1,0,0,0,0,1,1,2
+Brno,Medlánky,9000,1+kk,26,1,,2,1,False,False,False,False,49.2420341,16.5723551,Rent,1,1,0,0,1,1,1,0,1,0,1,0,1
+Brno,Město Brno,13500,1+kk,40,1,G,3,1,False,False,False,False,49.194332,16.610445,Rent,1,1,1,1,1,1,1,0,1,0,0,0,2
+Brno,Trnitá,12000,2+kk,62,1,G,2,1,True,False,False,False,49.1892061,16.6237904,Rent,1,0,0,1,0,0,1,0,1,1,1,0,2
+Brno,Bystrc,15500,2+kk,61,1,B,3,2,True,False,True,True,49.223174,16.513613,Rent,0,1,1,1,1,0,0,1,1,1,0,0,0
+Brno,Židenice,17900,3+1,100,1,B,2,2,False,False,False,False,49.198555,16.641773,Rent,0,0,0,0,0,1,0,0,1,1,1,1,0
+Brno,Zábrdovice,10500,1+kk,39,1,G,3,1,False,False,True,False,49.198915,16.621912,Rent,1,1,1,0,0,0,0,1,0,1,1,0,0
+Brno,Zábrdovice,11000,1+kk,32,1,,3,5,False,False,False,False,49.2001611,16.6177503,Rent,1,1,1,0,0,1,0,0,0,0,1,0,2
+Brno,Židenice,14500,2+1,54,2,C,0,2,False,False,False,False,49.190845,16.657876,Rent,0,0,0,0,1,1,1,1,1,0,0,0,1
+Brno,Štýřice,13000,3+1,65,2,,2,12,False,False,False,False,49.1739323341,16.5960502625,Rent,0,0,1,1,1,1,0,1,1,0,0,0,2
+Brno,Řečkovice,9900,1+1,44,2,C,3,1,False,False,False,False,49.245168,16.586004,Rent,0,1,1,1,0,1,1,0,0,0,1,0,0
+Brno,Staré Brno,14000,2+kk,54,1,G,3,4,True,False,True,False,49.188078,16.597051,Rent,0,0,0,0,0,1,1,0,0,1,1,0,0
+Brno,Komárov,11000,1+kk,41,1,G,2,1,False,False,False,False,49.179742,16.619317,Rent,0,1,1,1,1,1,0,0,1,1,1,0,2
+Brno,Staré Brno,13000,2+kk,64,1,,2,1,False,False,False,False,49.1869469,16.5981783,Rent,1,1,0,0,0,0,1,1,0,1,0,1,2
+Brno,Černá Pole,9400,1+kk,34,1,A,2,8,False,False,True,False,49.2186649,16.6159681,Rent,0,0,0,1,1,1,1,1,1,0,0,1,0
+Brno,Staré Brno,12505,2+kk,35,1,,3,1,False,False,False,False,49.1895044,16.5955778,Rent,1,1,1,0,0,1,0,1,1,0,1,0,1
+Brno,Veveří,13000,2+1,75,1,G,2,7,False,False,True,False,49.20755,16.59922,Rent,1,1,0,0,1,1,1,1,1,1,1,1,1
+Brno,Lesná,12000,2+1,60,2,,2,1,True,False,False,False,49.225686277157,16.63003230423,Rent,1,1,1,0,0,1,1,1,0,0,1,1,0
+Brno,Zábrdovice,10500,1+1,38,1,B,1,4,False,True,True,False,49.203679,16.621603,Rent,1,1,1,0,1,1,1,0,0,1,0,0,2
+Brno,Štýřice,16000,3+kk,60,1,A,2,2,False,False,True,False,49.183916,16.593987,Rent,1,1,1,0,0,0,0,1,0,0,0,0,2
+Brno,Žabovřesky,12000,2+1,60,1,C,2,1,False,False,False,False,49.21233,16.585841,Rent,0,0,1,1,0,1,0,0,0,1,1,0,2
+Brno,Město Brno,18000,2+kk,59,1,G,1,2,False,False,False,False,49.194332,16.610445,Rent,0,0,1,1,0,0,1,1,0,1,1,1,2
+Brno,Komín,8900,1+1,38,2,D,3,3,True,False,False,False,49.219656,16.55666,Rent,0,1,0,1,0,0,0,1,0,0,0,0,0
+Brno,Veveří,13500,2+1,70,1,G,2,0,False,False,True,False,49.207133,16.602641,Rent,0,0,1,0,1,1,0,1,0,1,1,1,0
+Brno,Bystrc,9000,1+1,37,2,B,2,3,False,False,False,False,49.219604,16.524016,Rent,0,0,1,0,0,0,1,1,0,0,0,1,1
+Brno,Bystrc,10500,2+kk,42,2,D,0,7,True,False,True,False,49.216859,16.505888,Rent,0,1,1,0,0,1,1,0,1,1,1,0,2
+Brno,Jundrov,15460,3+1,84,2,A,3,0,False,False,True,False,49.2122049,16.549686,Rent,0,1,0,0,0,0,1,0,1,0,0,0,2
+Brno,Židenice,14000,2+kk,65,1,B,1,1,True,False,False,False,49.2013875,16.6454849,Rent,0,1,0,0,0,0,1,0,1,1,0,0,0
+Brno,Dolní Heršpice,10500,2+kk,50,3,B,3,3,True,False,False,False,49.1542648,16.6242941,Rent,1,1,0,1,1,0,1,1,1,1,0,0,1
+Brno,Královo Pole,10000,1+kk,39,1,C,2,3,True,False,True,False,49.233541,16.591786,Rent,0,0,0,1,0,0,0,0,1,1,0,1,1
+Brno,Černá Pole,9300,1+1,45,1,C,0,1,False,False,False,False,49.213593,16.621274,Rent,1,0,0,0,0,0,1,1,0,1,1,0,2
+Brno,Město Brno,8000,1+kk,33,1,A,3,0,False,False,False,False,49.198531,16.61041,Rent,1,0,1,0,0,0,0,1,1,1,1,0,0
+Brno,Židenice,17000,3+kk,88,1,G,2,1,True,False,True,True,49.205746,16.659347,Rent,0,1,0,0,0,1,0,0,1,1,0,1,2
+Brno,Zábrdovice,10500,1+kk,40,1,A,3,3,True,False,True,False,49.1982688,16.6147012,Rent,0,1,1,0,0,0,1,0,1,0,0,0,1
