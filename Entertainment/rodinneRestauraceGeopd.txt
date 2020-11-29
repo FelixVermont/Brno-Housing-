@@ -1,9 +1,0 @@
-,rodinná restaurace,adresa,kategorie,podkategorie,lat,lon
-0,Čínská restaurace Chutné Štěstí,"Lidická 1874/38, Brno",restaurace,rodinná,49.203315,16.6072603
-1,Sabaidy,"třída Kpt. Jaroše 1942/29, Brno",restaurace,rodinná,49.2028908,16.6103832
-2,Indická a nepálská restaurace Buddha,"Náměstí Svobody 21, Brno",restaurace,rodinná,49.194984,16.6074347
-3,Cukrárna-kavárna Smile,"náměstí 28. dubna 10/40, Brno",restaurace,rodinná,49.2265714,16.5299097
-4,Bukovský kavárna - cukrářství,"Minská 2, Brno",restaurace,rodinná,49.2105506,16.586793
-5,U Mlsné Rózy,"Dřevařská 24, Brno",restaurace,rodinná,49.2090103,16.6004738
-6,U Emila,"Hybešova 224/13, Brno",restaurace,rodinná,49.1889702,16.6064791
-7,Hospůdka U Bosé nohy,"Jiráskova 11, Brno",restaurace,rodinná,49.2005447,16.5963105

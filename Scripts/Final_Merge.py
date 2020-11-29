@@ -41,25 +41,29 @@ sport["kategorie"] = "divadlo"
 vinarny = pd.read_csv('Entertainment/vinarny_geopd.csv')
 vinarny.columns = ["id", "nazev", "adresa", "kategorie", "lat", "lon"]
 
-skola_mater_priv = pd.read_csv('Schools/materske_privateDone.csv')
-skola_mater_priv.columns = ["nazev", "adresa", "psc"]
-skola_mater_priv["kategorie"] = "soukr. mater. skola"
+skola_mater_priv = pd.read_csv('Schools/materske_privateGeopd.txt')
+skola_mater_priv.columns = ["nazev", "adresa", "psc", "lat", "lon"]
+skola_mater_priv["kategorie"] = "skolka"
 
-skola_mater = pd.read_csv('Schools/materskeDone.csv')
-skola_mater.columns = ["nazev", "adresa", "psc"]
-skola_mater["kategorie"] = "mater. skola"
+skola_mater = pd.read_csv('Schools/materskeGeopd.txt')
+skola_mater.columns = ["id", "nazev", "adresa", "psc", "lat", "lon"]
+skola_mater["kategorie"] = "skolka"
 
-skola_stredni = pd.read_csv('Schools/stredniDone.csv')
-skola_stredni.columns = ["nazev", "adresa"]
+skola_stredni = pd.read_csv('Schools/stredniGeopd.txt')
+skola_stredni.columns = ["id", "nazev", "adresa", "lat", "lon"]
 skola_stredni["kategorie"] = "stred. skola"
 
-skola_zakl = pd.read_csv('Schools/zakladniDone.csv')
-skola_zakl.columns = ["nazev", "adresa", "psc"]
+skola_zakl = pd.read_csv('Schools/zakladniGeopd.txt')
+skola_zakl.columns = ["id", "nazev", "adresa", "psc", "lat", "lon"]
 skola_zakl["kategorie"] = "zakl. skola"
 
-skola_zakl_mater = pd.read_csv('Schools/zakladni_materskeDone.csv')
-skola_zakl_mater.columns = ["nazev", "adresa", "psc"]
-skola_zakl_mater["kategorie"] = "mater. a zakl. skola"
+skola_zakl_mater = pd.read_csv('Schools/zakladni_materskeGeopd.txt')
+skola_zakl_mater.columns = ["id", "nazev", "adresa", "psc", "lat", "lon"]
+skola_zakl_mater["kategorie"] = "skolka"
+
+skola_zakl_mater2 = pd.read_csv('Schools/zakladni_materskeGeopd.txt')
+skola_zakl_mater2.columns = ["id", "nazev", "adresa", "psc", "lat", "lon"]
+skola_zakl_mater2["kategorie"] = "zakl. skola"
 
 skola_vysoka = pd.read_csv('Práce/vysokeSkoly.txt')
 skola_vysoka.columns = ["id", "nazev", "adresa", "lat", "lon"]
@@ -84,8 +88,8 @@ parky["kategorie"] = "park"
 
 final_df = pd.concat([obchody, cukrarny, divadla, kina, pivnice,
                       restaurace, rod_restaurace, sport, vinarny,
-                      skola_mater_priv, skola_mater, skola_zakl_mater,
+                      skola_mater_priv, skola_mater, skola_zakl_mater, skola_zakl_mater2,
                       skola_zakl, skola_stredni, skola_vysoka, prace,
                       prac_strediska, parky]).reset_index()
 final_df = final_df[final_cols]
-final_df.to_csv("Reality/final.csv")
+final_df.to_csv("Reality/complete_set.csv")
