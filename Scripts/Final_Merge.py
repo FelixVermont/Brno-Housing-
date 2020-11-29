@@ -82,13 +82,13 @@ parky.columns = ["id", "nazev", "lat", "lon"]
 parky["kategorie"] = "park"
 
 zastavky = pd.read_csv('Doprava/Clean_MHD_zastavky.csv')
-zastavky.columns = ["lon", "lat", "id", "nazev"]
+zastavky.columns = ["lon", "lat", "nazev", "zona"]
 zastavky["kategorie"] = "zastavka"
 
 final_df = pd.concat([obchody, cukrarny, divadla, kina, pivnice,
                       restaurace, rod_restaurace, sport, vinarny,
                       skola_mater_priv, skola_mater, skola_zakl_mater, skola_zakl_mater2,
                       skola_zakl, skola_stredni, skola_vysoka, prace,
-                      prac_strediska, parky]).reset_index()
+                      prac_strediska, parky, zastavky]).reset_index()
 final_df = final_df[final_cols]
 final_df.to_csv("Reality/complete_set.csv")
