@@ -81,10 +81,9 @@ parky = pd.read_csv('Environment/parky.txt')
 parky.columns = ["id", "nazev", "lat", "lon"]
 parky["kategorie"] = "park"
 
-# zastavky = pd.read_csv('Doprava/Clean_MHD_zastavky.csv')
-# # zastavky.columns = ["id", "nazev", "lat", "lon"]
-# print(zastavky)
-
+zastavky = pd.read_csv('Doprava/Clean_MHD_zastavky.csv')
+zastavky.columns = ["lon", "lat", "id", "nazev"]
+zastavky["kategorie"] = "zastavka"
 
 final_df = pd.concat([obchody, cukrarny, divadla, kina, pivnice,
                       restaurace, rod_restaurace, sport, vinarny,
